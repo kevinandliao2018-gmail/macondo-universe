@@ -1,0 +1,699 @@
+[
+  {
+    "id": "location_buendia_house",
+    "name": "布恩迪亚宅邸",
+    "aliases": [
+      "布恩迪亚家",
+      "家族宅邸",
+      "宅邸"
+    ],
+    "summary": "家族秩序、欲望、秘密与衰败的中心空间。它从创世时期的样板房屋变成羊皮卷、蚂蚁、孤独和飓风汇合的终局档案。",
+    "zone": "household",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "作为新村镇的中心房屋，承载乌尔苏拉·伊瓜兰建立的日常秩序。"
+      },
+      {
+        "period": "war",
+        "status": "战争从外部侵入家庭，婚丧、禁忌欲望与政治暴力在屋内留下裂痕。"
+      },
+      {
+        "period": "banana",
+        "status": "外来繁荣改变镇子的节奏，宅邸内部仍保存家族的旧秩序和新的隔绝。"
+      },
+      {
+        "period": "rain",
+        "status": "大雨使房屋变成潮湿档案，记忆、沉默和腐蚀一起扩张。"
+      },
+      {
+        "period": "ruin",
+        "status": "宅邸成为终局废墟，羊皮卷、蚂蚁和最后一代血脉在此收束。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_03",
+      "chapter_ohy_04",
+      "chapter_ohy_10",
+      "chapter_ohy_13",
+      "chapter_ohy_15",
+      "chapter_ohy_17",
+      "chapter_ohy_18",
+      "chapter_ohy_19",
+      "chapter_ohy_20"
+    ],
+    "eventIds": [
+      "event_foundation_of_macondo",
+      "event_original_sin_memory",
+      "event_arcadio_birth_secret",
+      "event_rebeca_arrival",
+      "event_insomnia_plague",
+      "event_remedios_marriage",
+      "event_aureliano_jose_desire",
+      "event_twins_born",
+      "event_remedios_beauty_matures",
+      "event_jose_arcadio_son_return",
+      "event_gold_fish_cycle",
+      "event_aureliano_segundo_fortune",
+      "event_fernanda_arrival",
+      "event_yellow_butterflies_love",
+      "event_ursula_blindness",
+      "event_chestnut_binding",
+      "event_amaranta_ursula_childhood",
+      "event_amaranta_shroud",
+      "event_little_aureliano_hidden",
+      "event_house_declines",
+      "event_santa_sofia_leaves",
+      "event_fernanda_death",
+      "event_parchments_guarded",
+      "event_nigromanta_love",
+      "event_amaranta_ursula_returns",
+      "event_last_love",
+      "event_amaranta_ursula_death",
+      "event_final_child_birth",
+      "event_parchments_decoded",
+      "event_macondo_erased",
+      "event_pietro_crespi_courtship",
+      "event_pietro_crespi_suicide",
+      "event_gerineldo_courtship",
+      "event_seventeen_aurelianos_marked",
+      "event_jose_arcadio_seminarian_return",
+      "event_jose_arcadio_seminarian_death",
+      "event_final_child_devoured"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_rebeca",
+      "character_aureliano_buendia_colonel",
+      "character_amaranta",
+      "character_fernanda",
+      "character_little_aureliano",
+      "character_amaranta_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_memory",
+      "motif_time",
+      "motif_solitude",
+      "motif_parchments",
+      "motif_earth_lime",
+      "motif_dust_rubble",
+      "motif_pig_tail",
+      "motif_decay_animals",
+      "motif_yellow_flowers",
+      "motif_house_plants",
+      "motif_weeds_primeval_plants",
+      "motif_wind_hurricane"
+    ],
+    "map": {
+      "x": 50,
+      "y": 50,
+      "ring": "center"
+    },
+    "tags": [
+      "家族",
+      "宅邸",
+      "记忆",
+      "终局"
+    ]
+  },
+  {
+    "id": "location_chestnut_tree",
+    "name": "栗树",
+    "aliases": [
+      "栗树下",
+      "宅邸栗树"
+    ],
+    "summary": "宅邸旁的垂直记忆点，何塞·阿尔卡蒂奥·布恩迪亚被固定在这里，创世父权从行动者转为见证物。",
+    "zone": "household",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "树仍在宅邸旁提供阴影，像家族秩序的自然延伸。"
+      },
+      {
+        "period": "war",
+        "status": "战争时期的镇子改变秩序，树下的束缚显出家族内部更古老的停滞。"
+      },
+      {
+        "period": "banana",
+        "status": "外部现代性进入马孔多，栗树仍作为旧家族中心的沉默遗迹存在。"
+      },
+      {
+        "period": "rain",
+        "status": "雨水让树与宅邸共同受潮，见证被冲刷却没有真正消失。"
+      },
+      {
+        "period": "ruin",
+        "status": "它从父权标记转为废墟标记，保留家族第一个人的回声。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_13"
+    ],
+    "eventIds": [
+      "event_chestnut_binding"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_prudencio_aguilar"
+    ],
+    "motifIds": [
+      "motif_chestnut_tree",
+      "motif_family",
+      "motif_time",
+      "motif_yellow_flowers"
+    ],
+    "map": {
+      "x": 42,
+      "y": 43,
+      "ring": "inner"
+    },
+    "tags": [
+      "栗树",
+      "父权",
+      "束缚",
+      "见证"
+    ]
+  },
+  {
+    "id": "location_melquiades_room",
+    "name": "梅尔基亚德斯房间",
+    "aliases": [
+      "羊皮卷房间",
+      "炼金术房间",
+      "梅尔基亚德斯的房间"
+    ],
+    "summary": "宅邸内部最接近时间之外的密室。羊皮卷、记忆修复、破译和终局阅读在这里把家族史压缩成一页。",
+    "zone": "household",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "以炼金术、奇迹和外来知识进入家族空间，像一间尚未命名的实验室。"
+      },
+      {
+        "period": "war",
+        "status": "战争让镇子向外撕裂，房间内部却保存另一种缓慢时间。"
+      },
+      {
+        "period": "banana",
+        "status": "香蕉公司带来现实历史的噪声，房间继续保存预言文本。"
+      },
+      {
+        "period": "rain",
+        "status": "雨季中它成为记忆避难所，也被潮湿和灰尘逐步围困。"
+      },
+      {
+        "period": "ruin",
+        "status": "奥雷里亚诺·巴比伦在此破译羊皮卷，空间与文本一起抵达终点。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_03",
+      "chapter_ohy_18",
+      "chapter_ohy_20"
+    ],
+    "eventIds": [
+      "event_melquiades_returns",
+      "event_parchments_guarded",
+      "event_parchments_decoded",
+      "event_macondo_erased"
+    ],
+    "characterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia",
+      "character_jose_arcadio_segundo",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_parchments",
+      "motif_memory",
+      "motif_time",
+      "motif_light_darkness",
+      "motif_dust_rubble",
+      "motif_decay_animals",
+      "motif_weeds_primeval_plants"
+    ],
+    "map": {
+      "x": 59,
+      "y": 42,
+      "ring": "inner"
+    },
+    "tags": [
+      "羊皮卷",
+      "预言",
+      "记忆",
+      "密室"
+    ]
+  },
+  {
+    "id": "location_riverbank",
+    "name": "河岸",
+    "aliases": [
+      "河边",
+      "河岸村落"
+    ],
+    "summary": "马孔多创世的自然边界，也是孤立地理的第一条线。河岸把童年奇迹、村镇诞生和外部道路尚未打开的时期连在一起。",
+    "zone": "nature",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "村镇依水而生，河岸构成马孔多最早的自然坐标。"
+      },
+      {
+        "period": "war",
+        "status": "战争把镇子拖入政治时间，河岸退为远处的起源记忆。"
+      },
+      {
+        "period": "banana",
+        "status": "铁路和公司重写交通秩序，河岸不再是唯一的边界。"
+      },
+      {
+        "period": "rain",
+        "status": "雨水扩大了水的统治，河岸意象从创世转向淹没。"
+      },
+      {
+        "period": "ruin",
+        "status": "自然重新包围废墟，河岸成为马孔多孤独循环的外缘。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_01"
+    ],
+    "eventIds": [
+      "event_foundation_of_macondo",
+      "event_melquiades_first_wonders",
+      "event_ice_discovery",
+      "event_original_sin_memory",
+      "event_prudencio_duel"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_melquiades",
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_memory",
+      "motif_family",
+      "motif_river_water",
+      "motif_earth_lime",
+      "motif_birds",
+      "motif_light_darkness"
+    ],
+    "map": {
+      "x": 20,
+      "y": 63,
+      "ring": "outer"
+    },
+    "tags": [
+      "河岸",
+      "创世",
+      "童年",
+      "边界"
+    ]
+  },
+  {
+    "id": "location_gypsy_camp",
+    "name": "吉卜赛人营地",
+    "aliases": [
+      "吉卜赛营地",
+      "奇迹集市"
+    ],
+    "summary": "外部世界第一次以磁铁、冰块和奇观进入马孔多的临时空间。它像一扇移动的门，让封闭村镇忽然看见技术、欲望和远方。",
+    "zone": "threshold",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "营地带来奇迹和发明，撬开马孔多最早的想象边界。"
+      },
+      {
+        "period": "war",
+        "status": "早期奇迹被战争现实覆盖，只留下技术入侵的先声。"
+      },
+      {
+        "period": "banana",
+        "status": "外来现代性变得制度化，营地的临时魔法被公司秩序取代。"
+      },
+      {
+        "period": "rain",
+        "status": "雨季回看营地，早期惊奇已经变成遥远的童年光点。"
+      },
+      {
+        "period": "ruin",
+        "status": "营地消失，只在羊皮卷式的记忆结构中保留入口意义。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_02"
+    ],
+    "eventIds": [
+      "event_melquiades_first_wonders",
+      "event_ice_discovery",
+      "event_jose_arcadio_son_departure"
+    ],
+    "characterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia",
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_son"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_memory",
+      "motif_solitude",
+      "motif_light_darkness",
+      "motif_sun_heat"
+    ],
+    "map": {
+      "x": 24,
+      "y": 28,
+      "ring": "outer"
+    },
+    "tags": [
+      "吉卜赛人",
+      "奇迹",
+      "冰块",
+      "外部世界"
+    ]
+  },
+  {
+    "id": "location_square",
+    "name": "广场",
+    "aliases": [
+      "镇广场",
+      "马孔多广场"
+    ],
+    "summary": "马孔多公共秩序显影的地点。镇长、战争、处决和群众记忆在这里把原本私密的家族史推向政治空间。",
+    "zone": "town",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "广场还是新村镇的公共空地，秩序尚未完全制度化。"
+      },
+      {
+        "period": "war",
+        "status": "它变成权力展示和暴力执行的舞台，马孔多开始政治化。"
+      },
+      {
+        "period": "banana",
+        "status": "公司时代的公共空间被外来秩序和经济欲望重新压迫。"
+      },
+      {
+        "period": "rain",
+        "status": "大雨之后，公共记忆被冲散，广场的见证能力变得脆弱。"
+      },
+      {
+        "period": "ruin",
+        "status": "广场退为废墟中的空位，曾经的公共声音只剩回声。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_03",
+      "chapter_ohy_05",
+      "chapter_ohy_06",
+      "chapter_ohy_08",
+      "chapter_ohy_15"
+    ],
+    "eventIds": [
+      "event_war_begins",
+      "event_arcadio_rule",
+      "event_arcadio_excess",
+      "event_arcadio_execution",
+      "event_colonel_execution_escape",
+      "event_war_spreads",
+      "event_aureliano_jose_death",
+      "event_colonel_hardens",
+      "event_macondo_rain_telegram",
+      "event_war_ends",
+      "event_banana_strike",
+      "event_moscote_arrival",
+      "event_gerineldo_courtship",
+      "event_seventeen_aurelianos_assassinated"
+    ],
+    "characterIds": [
+      "character_apolinar_moscote",
+      "character_arcadio",
+      "character_ursula",
+      "character_aureliano_jose",
+      "character_jose_arcadio_segundo"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_memory",
+      "motif_family"
+    ],
+    "map": {
+      "x": 73,
+      "y": 57,
+      "ring": "outer"
+    },
+    "tags": [
+      "广场",
+      "公共空间",
+      "战争",
+      "政治"
+    ]
+  },
+  {
+    "id": "location_station",
+    "name": "车站",
+    "aliases": [
+      "火车站",
+      "铁路车站",
+      "香蕉列车"
+    ],
+    "summary": "铁路把马孔多接入现代性，也把公司、货物、工人和被抹去的尸体带进同一条轨道。车站是奇迹转为历史创伤的门槛。",
+    "zone": "threshold",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "尚未出现，马孔多的外部连接仍依赖道路、河岸和传闻。"
+      },
+      {
+        "period": "war",
+        "status": "战争后的马孔多等待新的外部通道，车站尚是未来的裂口。"
+      },
+      {
+        "period": "banana",
+        "status": "火车抵达，铁路成为香蕉公司扩张和现代性入侵的主轴。"
+      },
+      {
+        "period": "rain",
+        "status": "大屠杀之后，车站与雨水共同保存被官方抹除的记忆。"
+      },
+      {
+        "period": "ruin",
+        "status": "铁路的繁荣退去，车站成为殖民创伤留下的空壳。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_11",
+      "chapter_ohy_15",
+      "chapter_ohy_16"
+    ],
+    "eventIds": [
+      "event_jose_arcadio_son_return",
+      "event_train_arrives",
+      "event_banana_company_arrives",
+      "event_meme_exile",
+      "event_banana_strike",
+      "event_massacre_witness",
+      "event_rain_begins",
+      "event_rain_stops",
+      "event_amaranta_ursula_returns",
+      "event_jose_arcadio_seminarian_return",
+      "event_gaston_leaves"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_memory",
+      "motif_rain",
+      "motif_time",
+      "motif_banana_leaves_stumps"
+    ],
+    "map": {
+      "x": 82,
+      "y": 32,
+      "ring": "outer"
+    },
+    "tags": [
+      "车站",
+      "铁路",
+      "现代性",
+      "大屠杀"
+    ]
+  },
+  {
+    "id": "location_banana_company",
+    "name": "香蕉公司区域",
+    "aliases": [
+      "香蕉公司",
+      "公司区",
+      "香蕉种植区"
+    ],
+    "summary": "外来资本与殖民秩序在马孔多的空间化形态。它带来繁荣、欲望和纪律，也带来罢工、大屠杀和被雨水覆盖的历史遗忘。",
+    "zone": "industry",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "尚不存在，马孔多仍处在本地家族和自然边界构成的封闭空间。"
+      },
+      {
+        "period": "war",
+        "status": "战争留下权力真空，为后来的公司秩序进入铺开地面。"
+      },
+      {
+        "period": "banana",
+        "status": "区域成为马孔多最强的外部力量，重组劳动、交通和欲望。"
+      },
+      {
+        "period": "rain",
+        "status": "罢工和大屠杀之后，雨水覆盖公司痕迹，也放大历史抹除。"
+      },
+      {
+        "period": "ruin",
+        "status": "公司离去后留下空洞，繁荣像一段被强行删改的档案。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_11",
+      "chapter_ohy_12",
+      "chapter_ohy_15",
+      "chapter_ohy_16"
+    ],
+    "eventIds": [
+      "event_remedios_beauty_matures",
+      "event_aureliano_segundo_fortune",
+      "event_petra_cotes_bond",
+      "event_banana_company_arrives",
+      "event_foreign_order_expands",
+      "event_remedios_ascension",
+      "event_yellow_butterflies_love",
+      "event_mauricio_shot",
+      "event_meme_exile",
+      "event_banana_strike",
+      "event_massacre_witness",
+      "event_rain_begins",
+      "event_rain_corrosion",
+      "event_rain_stops"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_segundo",
+      "character_mauricio_babilonia",
+      "character_meme",
+      "character_fernanda",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_memory",
+      "motif_rain",
+      "motif_war",
+      "motif_yellow_butterflies",
+      "motif_banana_leaves_stumps",
+      "motif_river_water",
+      "motif_decay_animals"
+    ],
+    "map": {
+      "x": 86,
+      "y": 68,
+      "ring": "outer"
+    },
+    "tags": [
+      "香蕉公司",
+      "殖民创伤",
+      "罢工",
+      "遗忘"
+    ]
+  },
+  {
+    "id": "location_cemetery",
+    "name": "墓地",
+    "aliases": [
+      "坟场",
+      "墓园"
+    ],
+    "summary": "死亡被安放、转移或无法安放的地点。墓地把家族个体的死亡和马孔多集体记忆的破洞并置起来。",
+    "zone": "town",
+    "periodStates": [
+      {
+        "period": "founding",
+        "status": "村镇建立后，死亡开始拥有固定位置，亡魂也开始反向塑造日常。"
+      },
+      {
+        "period": "war",
+        "status": "战争让死亡公开化，墓地承受家族悲剧和政治暴力的双重重量。"
+      },
+      {
+        "period": "banana",
+        "status": "公司时代制造无法正常记名的死亡，墓地反而暴露历史的缺席。"
+      },
+      {
+        "period": "rain",
+        "status": "雨水使死亡和遗忘互相浸泡，个人墓穴与集体无名者之间出现裂缝。"
+      },
+      {
+        "period": "ruin",
+        "status": "终局到来时，墓地不再能保存全部死亡，马孔多整体成为废墟墓志。"
+      }
+    ],
+    "chapterIds": [
+      "chapter_ohy_04",
+      "chapter_ohy_07",
+      "chapter_ohy_14",
+      "chapter_ohy_15",
+      "chapter_ohy_17"
+    ],
+    "eventIds": [
+      "event_remedios_death",
+      "event_jose_arcadio_son_death",
+      "event_amaranta_death",
+      "event_massacre_witness",
+      "event_ursula_death",
+      "event_twins_die",
+      "event_pietro_crespi_suicide",
+      "event_seventeen_aurelianos_assassinated",
+      "event_jose_arcadio_seminarian_death"
+    ],
+    "characterIds": [
+      "character_remedios_moscote",
+      "character_jose_arcadio_son",
+      "character_amaranta",
+      "character_jose_arcadio_segundo",
+      "character_ursula",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_memory",
+      "motif_rain",
+      "motif_family",
+      "motif_dust_rubble",
+      "motif_yellow_flowers"
+    ],
+    "map": {
+      "x": 30,
+      "y": 79,
+      "ring": "outer"
+    },
+    "tags": [
+      "墓地",
+      "死亡",
+      "记忆",
+      "遗忘"
+    ]
+  }
+]

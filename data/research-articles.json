@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "article_banana_company_modernity",
+    "slug": "banana-company-modernity",
+    "title": "香蕉公司线：现代性、殖民秩序与失忆",
+    "subtitle": "从火车的时刻表到雨水的封存层",
+    "summary": "这篇专题把香蕉公司线读成马孔多被外部时间重写的全过程：火车先带来规律，公司随后改造空间，爱情与劳动被卷入同一套秩序，最后大屠杀在暴雨和官方沉默中被封存。",
+    "thesis": "香蕉公司不是单一灾难，而是一套从速度、空间、劳动、暴力到遗忘连续运转的殖民装置。",
+    "tags": [
+      "香蕉公司",
+      "现代性",
+      "殖民秩序",
+      "失忆",
+      "雨"
+    ],
+    "sortOrder": 1,
+    "evidenceCardIds": [
+      "evidence_path_banana_company_train",
+      "evidence_path_banana_company_order",
+      "evidence_path_banana_company_butterflies",
+      "evidence_path_banana_company_strike",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_banana_company_rain"
+    ],
+    "pathIds": [
+      "path_banana_company"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_fernanda",
+      "character_mauricio_babilonia",
+      "character_meme",
+      "character_ursula",
+      "character_petra_cotes"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_time",
+      "motif_memory",
+      "motif_family",
+      "motif_yellow_butterflies",
+      "motif_solitude",
+      "motif_war",
+      "motif_rain"
+    ],
+    "chapterIds": [
+      "chapter_ohy_11",
+      "chapter_ohy_12",
+      "chapter_ohy_14",
+      "chapter_ohy_15",
+      "chapter_ohy_16"
+    ],
+    "sections": [
+      {
+        "id": "article_banana_company_modernity_arrival",
+        "title": "一、火车先带来外部时间",
+        "paragraphs": [
+          "香蕉公司进入马孔多之前，现代性已经先以火车的形式试探这座城镇。火车按固定时刻抵达，表面上只是交通工具，实际却把马孔多从家族记忆和自然节奏中拖出来，放进一种可以计量、调度、预测的外部时间。",
+          "这条线的开端并不血腥，它甚至带着新奇和秩序的光泽。正因为如此，危险才更隐蔽：当车站成为新的入口，马孔多已经不再只由河岸、宅邸和广场定义，而开始被一张来自外部的时刻表默默重排。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_train"
+        ]
+      },
+      {
+        "id": "article_banana_company_modernity_order",
+        "title": "二、公司秩序改写空间与爱情",
+        "paragraphs": [
+          "公司秩序最早改变的不是人的信念，而是空间的边界。香蕉公司区域、车站、外乡人和新的生活规则一起出现，使马孔多从一座由亲族关系维系的镇子，变成被产业营地、管理制度和外来语言切开的地方。",
+          "黄蝴蝶看似属于梅梅与马乌里肖·巴比伦的爱情，实际上也被公司阴影染色。马乌里肖·巴比伦来自公司区域，梅梅的身体和沉默则被宅邸礼法与外部秩序共同规训；私人欲望在这里不再纯粹，它已经接入公司时代的权力线路。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_order",
+          "evidence_path_banana_company_butterflies"
+        ]
+      },
+      {
+        "id": "article_banana_company_modernity_violence",
+        "title": "三、繁荣在罢工中露出暴力骨架",
+        "paragraphs": [
+          "罢工让香蕉公司的繁荣暂停，也让被遮住的劳动结构显形。香蕉在枝头腐烂时，马孔多才看见那套外来秩序并不是自然生长出来的富足，而是依靠工人、纪律、利润和沉默维持的机器。",
+          "大屠杀使这台机器的终点暴露出来：当公共空间被军令占据，何塞·阿尔卡蒂奥第二成为见证者，却也被推向无人相信的位置。这里的恐怖不只在死亡本身，更在死亡随即被撤销、被改写、被说成从未发生。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_strike",
+          "evidence_path_banana_company_massacre"
+        ]
+      },
+      {
+        "id": "article_banana_company_modernity_rain",
+        "title": "四、雨水完成历史的封存",
+        "paragraphs": [
+          "香蕉公司离去之后，马孔多没有获得真相，只获得一场漫长的雨。雨把车站、公司区域、宅邸和记忆一起泡软，使证词变得潮湿，使尸体的踪迹被冲刷，使幸存者的语言越来越像不合时宜的幻觉。",
+          "因此，香蕉公司线的终点不是公司撤离，而是失忆成为日常秩序。现代性在马孔多留下的不是坚固的进步纪念碑，而是一层雨水覆盖的档案：能被证据卡重新钉回文本，却仍在城镇内部不断被否认。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_rain"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_parchments_time_reading",
+    "slug": "parchments-time-reading",
+    "title": "羊皮卷线：时间、预言与不可逃逸的阅读",
+    "subtitle": "从梅尔基亚德斯的奇迹到终页的飓风",
+    "summary": "这篇专题追踪羊皮卷如何从早期奇迹、记忆修复和密室保存，逐步变成奥雷里亚诺·巴比伦无法逃离的阅读命运。",
+    "thesis": "羊皮卷不是终章才出现的谜底，而是一种早已潜伏在马孔多内部的时间结构：人物以为自己在生活，最后才发现自己一直在被书写。",
+    "tags": [
+      "羊皮卷",
+      "时间",
+      "预言",
+      "阅读",
+      "终局"
+    ],
+    "sortOrder": 2,
+    "evidenceCardIds": [
+      "evidence_path_parchments_melquiades",
+      "evidence_path_parchments_room_memory",
+      "evidence_path_parchments_last_reader",
+      "evidence_path_parchments_guarded",
+      "evidence_path_parchments_decoding",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_parchments"
+    ],
+    "characterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia",
+      "character_rebeca",
+      "character_ursula",
+      "character_little_aureliano",
+      "character_fernanda",
+      "character_meme",
+      "character_mauricio_babilonia",
+      "character_jose_arcadio_segundo",
+      "character_final_aureliano"
+    ],
+    "motifIds": [
+      "motif_time",
+      "motif_memory",
+      "motif_family",
+      "motif_solitude",
+      "motif_parchments",
+      "motif_ants"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_03",
+      "chapter_ohy_15",
+      "chapter_ohy_18",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_parchments_time_reading_miracle",
+        "title": "一、预言先以奇迹进入马孔多",
+        "paragraphs": [
+          "羊皮卷线不能只从终章读起。梅尔基亚德斯第一次进入马孔多时，知识还不是阴暗的谜文，而是磁铁、炼金术和外部世界的奇异光芒；正是这些早期奇迹，为后来的预言文本建立了权威。",
+          "何塞·阿尔卡蒂奥·布恩迪亚追逐发明时，并不知道自己已经靠近一套更大的书写秩序。羊皮卷的晦涩不是凭空降临，它从奇迹的残光中长出来，像一张慢慢显影的底片。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_melquiades"
+        ]
+      },
+      {
+        "id": "article_parchments_time_reading_room",
+        "title": "二、房间把记忆保存成时间密室",
+        "paragraphs": [
+          "失眠症之后，马孔多明白记忆不是天然稳固的东西。梅尔基亚德斯的房间因此不只是学问空间，更像一间逆着遗忘运转的密室，它把语言、记忆和未来文本暂时从腐败中隔离出来。",
+          "奥雷里亚诺·巴比伦以秘密孩子的身份被安置在宅邸深处，这个开端已经带有羊皮卷式的安排。他不是先成为读者才孤独，而是先被孤立，才被推向最后的阅读。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_room_memory",
+          "evidence_path_parchments_last_reader"
+        ]
+      },
+      {
+        "id": "article_parchments_time_reading_lock",
+        "title": "三、百年之锁让阅读无法提前抵达",
+        "paragraphs": [
+          "羊皮卷真正残酷的地方，不在于它难懂，而在于它有自己的时间。它拒绝被聪明立刻打开，要求读者等到家族命运走完必要的弯路，等到证据、死亡、欲望和孤独都积累成最后一页。",
+          "当奥雷里亚诺·巴比伦开始破译，他读到的不是外在历史，而是自己已经身在其中的命运。阅读在这里不再是旁观，读者与文本之间最后的距离被取消。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_guarded",
+          "evidence_path_parchments_decoding"
+        ]
+      },
+      {
+        "id": "article_parchments_time_reading_erasure",
+        "title": "四、读完之时，世界也被读尽",
+        "paragraphs": [
+          "羊皮卷的终局不是解释世界，而是耗尽世界。奥雷里亚诺·巴比伦越接近文本的完整意义，马孔多越接近它被抹去的时刻；知识不再带来拯救，只带来不可逆的确认。",
+          "这就是羊皮卷线最冰冷的结构：预言不是灾难之后的记录，而是与灾难同步闭合的装置。等读者终于理解自己，留给他的已经不是选择，而是被飓风翻到最后的一页。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_family_solitude_names",
+    "slug": "family-solitude-names",
+    "title": "家族孤独线：名字、重复与爱的失败",
+    "subtitle": "从血缘恐惧到最后孩子的终局显形",
+    "summary": "这篇专题把孤独遗传线读成一套家族语法：血缘恐惧设下起点，重复姓名制造镜像，欲望与战争不断失败，最后的爱情把最古老的禁忌带回现实。",
+    "thesis": "布恩迪亚家的孤独不是某个人的性格阴影，而是名字、欲望、战争和亲密关系反复复制出来的家族结构。",
+    "tags": [
+      "孤独",
+      "家族",
+      "名字",
+      "重复",
+      "爱情失败"
+    ],
+    "sortOrder": 3,
+    "evidenceCardIds": [
+      "evidence_path_solitude_blood_fear",
+      "evidence_path_solitude_repeated_names",
+      "evidence_path_solitude_forbidden_desire",
+      "evidence_path_solitude_war",
+      "evidence_path_solitude_failed_love",
+      "evidence_path_solitude_final_bloodline"
+    ],
+    "pathIds": [
+      "path_solitude_inheritance"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_seventeen_aurelianos",
+      "character_aureliano_buendia_colonel",
+      "character_aureliano_jose",
+      "character_amaranta",
+      "character_pietro_crespi",
+      "character_gerineldo_marquez",
+      "character_meme",
+      "character_mauricio_babilonia",
+      "character_fernanda",
+      "character_little_aureliano",
+      "character_nigromanta",
+      "character_amaranta_ursula",
+      "character_final_aureliano",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_time",
+      "motif_war",
+      "motif_gold_fish",
+      "motif_yellow_butterflies",
+      "motif_ants",
+      "motif_parchments"
+    ],
+    "chapterIds": [
+      "chapter_ohy_02",
+      "chapter_ohy_05",
+      "chapter_ohy_09",
+      "chapter_ohy_04",
+      "chapter_ohy_08",
+      "chapter_ohy_12",
+      "chapter_ohy_14",
+      "chapter_ohy_18",
+      "chapter_ohy_19",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_family_solitude_names_blood",
+        "title": "一、孤独从血缘恐惧中发芽",
+        "paragraphs": [
+          "布恩迪亚家的孤独不是从某次失败的爱情开始，而是从血脉向内部回卷的恐惧开始。乌尔苏拉·伊瓜兰对禁忌后果的警觉，使家族一开始就背负着一种比死亡更古老的焦虑。",
+          "这份焦虑没有随着马孔多的建立而消失。相反，它被埋进家族的命名、婚配、欲望和沉默里，像一枚不会腐烂的种子，等待每一代人以为自己终于能够重新开始。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_blood_fear"
+        ]
+      },
+      {
+        "id": "article_family_solitude_names_repetition",
+        "title": "二、名字把人物变成彼此的回声",
+        "paragraphs": [
+          "重复姓名是这条孤独线最清晰的机械结构。何塞·阿尔卡蒂奥第二、奥雷里亚诺第二和十七个奥雷里亚诺不是简单共享几个名字，他们在名字里继承了相似的倾向、误认和命运轨道。",
+          "名字因此成为家族内部的预言技术。它不直接命令人物，却持续制造镜像，使每个新生者都像带着旧人的影子走路；所谓个体命运，常常只是重复中的一次轻微偏移。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_repeated_names"
+        ]
+      },
+      {
+        "id": "article_family_solitude_names_failure",
+        "title": "三、欲望与战争都无法抵达他人",
+        "paragraphs": [
+          "家族中的爱情经常以距离、禁忌或沉默告终。奥雷里亚诺·何塞的欲望被宅邸内部的禁令反弹，阿玛兰妲的拒绝让皮埃特罗·克雷斯皮的忠诚变成无法安放的孤独，亲密关系越接近，越显出无法抵达他人的墙。",
+          "奥雷里亚诺·布恩迪亚上校把这份孤独带入战争，又把战争的失败带回小金鱼作坊。公共理想耗尽之后，只剩重复劳作维持形式上的秩序；战争没有打开世界，反而把人封进更精密的循环。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_forbidden_desire",
+          "evidence_path_solitude_war",
+          "evidence_path_solitude_failed_love"
+        ]
+      },
+      {
+        "id": "article_family_solitude_names_end",
+        "title": "四、最后的爱情带回最古老的结果",
+        "paragraphs": [
+          "奥雷里亚诺·巴比伦与阿玛兰妲·乌尔苏拉的爱情看起来像迟来的更新，仿佛家族终于可以绕过旧日禁令，从废墟里长出新的身体。但《百年孤独》的残酷在于，它让这场爱情同时携带新生和回归。",
+          "最后孩子的出生使家族最初的恐惧显形，也使孤独遗传线闭合。名字、禁忌、欲望和预言都在这一刻合为同一句话：布恩迪亚家的爱没有失败在不够炽烈，而是失败在始终无法逃出自己的血脉圆环。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_final_bloodline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_one_hundred_years_story_guide",
+    "slug": "one-hundred-years-story-guide",
+    "title": "《百年孤独》讲述了一个怎样的故事",
+    "subtitle": "从七代家族史到马孔多的毁灭预言",
+    "summary": "这篇专题把原始故事导读压缩为一条可探索的总览：布恩迪亚家族从创世、命名、战争、香蕉公司到羊皮卷终局，如何把个人命运、城镇兴衰和拉丁美洲历史压缩进百年孤独。",
+    "thesis": "《百年孤独》不是一部单线家族传奇，而是一座由血脉、时间、外来秩序和文本预言共同搭建的循环宇宙。",
+    "tags": [
+      "故事总览",
+      "家族史",
+      "马孔多",
+      "时间循环",
+      "入门导读"
+    ],
+    "sortOrder": 4,
+    "evidenceCardIds": [
+      "evidence_article_ice_burns",
+      "evidence_path_house_foundation",
+      "evidence_path_solitude_blood_fear",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_parchments_erasure",
+      "evidence_path_solitude_final_bloodline"
+    ],
+    "pathIds": [
+      "path_buendia_house_decay",
+      "path_solitude_inheritance",
+      "path_banana_company",
+      "path_parchments"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_segundo",
+      "character_little_aureliano",
+      "character_melquiades",
+      "character_amaranta_ursula",
+      "character_final_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_time",
+      "motif_ice",
+      "motif_banana_company",
+      "motif_memory",
+      "motif_parchments",
+      "motif_ants",
+      "motif_pig_tail"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_02",
+      "chapter_ohy_09",
+      "chapter_ohy_15",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_one_hundred_years_story_guide_origin",
+        "title": "一、故事从创世与冰块开始",
+        "paragraphs": [
+          "《百年孤独》的入口是一座刚刚命名的村镇和一块从外部世界带来的冰。马孔多最初像一处乐土，宅邸是秩序样板，河岸、菜园和吉卜赛人营地共同组成一个仍能相信奇迹的世界。",
+          "但冰块的触感已经预告这座乐土不会停留在纯真里。未知之物以“它在烧”的方式闯入身体，科学奇观、童年记忆和死亡预感同时出现，故事从第一章就把创世与终局折叠在一起。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_ice_burns",
+          "evidence_path_house_foundation"
+        ]
+      },
+      {
+        "id": "article_one_hundred_years_story_guide_family",
+        "title": "二、七代人被名字和血脉牵引",
+        "paragraphs": [
+          "布恩迪亚家族的主线不是简单的代际延续，而是名字、禁忌和欲望的反复回声。乌尔苏拉·伊瓜兰对血缘后果的恐惧，为家族史设下最早的暗门。",
+          "后来的婚恋、私生子、重复姓名和孤独劳作，都在证明同一件事：人物以为自己在选择生活，实际上常常在旧名字和旧恐惧的阴影中行走。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_blood_fear"
+        ]
+      },
+      {
+        "id": "article_one_hundred_years_story_guide_history",
+        "title": "三、外部历史把马孔多拖入灾难",
+        "paragraphs": [
+          "马孔多的封闭并非永恒。火车、公司营地、外来管理和资本秩序逐步进入，香蕉公司把镇子的空间、劳动和爱情一起改写。",
+          "大屠杀之后，故事不再只是一个家族的衰败，而成为历史被否认、见证者被孤立的政治寓言。何塞·阿尔卡蒂奥第二站在无人相信的位置，替马孔多保留那段被雨水封存的真相。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre"
+        ]
+      },
+      {
+        "id": "article_one_hundred_years_story_guide_ending",
+        "title": "四、羊皮卷把故事读到尽头",
+        "paragraphs": [
+          "最后，奥雷里亚诺·巴比伦破译的不是旁观者的档案，而是自己正在经历的命运。羊皮卷把百年家族史压缩成同一瞬间，使阅读本身变成终局机制。",
+          "最后孩子的猪尾巴和马孔多的飓风让故事完成闭合：创世时的奇迹、血脉中的恐惧、公司时代的遗忘和终章的文本预言，全部回到同一个结论，注定经受百年孤独的家族没有第二次机会。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure",
+          "evidence_path_solitude_final_bloodline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_after_many_years_time_spell",
+    "slug": "after-many-years-time-spell",
+    "title": "《百年孤独》多年以后：永远至永远消失",
+    "subtitle": "“多年以后”如何把记忆、死亡和见证折成同一张羊皮卷",
+    "summary": "这篇专题把“多年以后”读成整部小说的时间咒语：它让童年冰块、行刑队、战争远征、爱情沉默和香蕉公司见证彼此照面，直到终章阅读把所有时间压缩为同一瞬间。",
+    "thesis": "“多年以后”不是叙事装饰，而是《百年孤独》的时间发动机：未来不断召唤过去，记忆又不断提前写出死亡。",
+    "tags": [
+      "多年以后",
+      "时间",
+      "记忆",
+      "预叙",
+      "见证"
+    ],
+    "sortOrder": 5,
+    "evidenceCardIds": [
+      "evidence_article_ice_burns",
+      "evidence_path_solitude_war",
+      "evidence_path_solitude_failed_love",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_solitude_inheritance",
+      "path_banana_company",
+      "path_parchments"
+    ],
+    "characterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_segundo",
+      "character_meme",
+      "character_mauricio_babilonia",
+      "character_little_aureliano",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_time",
+      "motif_memory",
+      "motif_ice",
+      "motif_war",
+      "motif_banana_company",
+      "motif_solitude",
+      "motif_parchments"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_09",
+      "chapter_ohy_15",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_after_many_years_time_spell_ice",
+        "title": "一、未来从冰块回望童年",
+        "paragraphs": [
+          "小说最著名的时间转折，把行刑队前的死亡时刻与童年冰块绑在一起。读者还没进入家族史，就已经同时站在将来和过去之间。",
+          "冰块因此不只是第一件奇观，它也是记忆装置。多年以后，奥雷里亚诺·布恩迪亚上校回想起的不是战争理由，而是父亲带他触摸未知的那个下午。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_ice_burns"
+        ]
+      },
+      {
+        "id": "article_after_many_years_time_spell_war",
+        "title": "二、战争把时间磨成循环",
+        "paragraphs": [
+          "战争线不断制造未来回忆，却很少带来真正的前进。奥雷里亚诺·布恩迪亚上校从公共战场退回小金鱼作坊，时间像金属一样被熔化重做。",
+          "这种循环让“多年以后”带上宿命感：人物每一次以为自己走向未来，都可能只是回到旧日执念的另一种形态。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_war"
+        ]
+      },
+      {
+        "id": "article_after_many_years_time_spell_witness",
+        "title": "三、见证者被推向无人相信的未来",
+        "paragraphs": [
+          "香蕉公司大屠杀之后，见证本身变成一种延迟的时间。何塞·阿尔卡蒂奥第二知道自己看见了什么，却被推入一个尚未准备好承认真相的世界。",
+          "梅梅的沉默同样延长了时间。爱情没有结束于放逐那天，而是在终生不语中继续燃烧；未来不是疗愈，而是记忆无法被公开安放的漫长回声。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre",
+          "evidence_path_solitude_failed_love"
+        ]
+      },
+      {
+        "id": "article_after_many_years_time_spell_parchments",
+        "title": "四、羊皮卷取消过去与未来的距离",
+        "paragraphs": [
+          "终章把“多年以后”的技术推到极致。奥雷里亚诺·巴比伦读到的不是按顺序展开的历史，而是一个世纪同时发生的命运。",
+          "当阅读抵达最后一页，未来、过去和当下不再分开。马孔多之所以消失，不是因为时间终于走完，而是因为它被彻底读懂，无法再以未知形式延续。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_circular_structure",
+    "slug": "circular-structure",
+    "title": "《百年孤独》的圆形结构",
+    "subtitle": "从冰块到飓风，从重复姓名到被阅读的世界",
+    "summary": "这篇专题把圆形结构拆成四个层面：开头与结尾的意象闭环、家族姓名的镜像循环、羊皮卷的文本回环，以及历史重复背后的虚无感。",
+    "thesis": "《百年孤独》的圆不是装饰性首尾呼应，而是人物、历史、语言和阅读共同构成的命运机器。",
+    "tags": [
+      "圆形结构",
+      "时间循环",
+      "名字重复",
+      "互文",
+      "羊皮卷"
+    ],
+    "sortOrder": 6,
+    "evidenceCardIds": [
+      "evidence_article_ice_burns",
+      "evidence_path_solitude_repeated_names",
+      "evidence_path_parchments_decoding",
+      "evidence_article_mirror_city_erasure",
+      "evidence_path_solitude_final_bloodline"
+    ],
+    "pathIds": [
+      "path_solitude_inheritance",
+      "path_parchments",
+      "path_buendia_house_decay"
+    ],
+    "characterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_little_aureliano",
+      "character_melquiades",
+      "character_final_aureliano"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_family",
+      "motif_parchments",
+      "motif_solitude",
+      "motif_ants",
+      "motif_pig_tail"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_05",
+      "chapter_ohy_09",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_circular_structure_ice_wind",
+        "title": "一、冰块和飓风形成首尾回声",
+        "paragraphs": [
+          "开篇的冰块是凝固的奇迹，终章的飓风是消散的审判。一个让孩子触摸未知，一个把整座城镇从记忆里抹去。",
+          "这条首尾弧线使《百年孤独》像一个被缓慢合上的圆：从透明的冰到透明的镜子之城，马孔多始终在可见与消失之间摆动。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_ice_burns",
+          "evidence_article_mirror_city_erasure"
+        ]
+      },
+      {
+        "id": "article_circular_structure_names",
+        "title": "二、重复姓名让个体成为回声",
+        "paragraphs": [
+          "家族姓名的重复，让人物不只是彼此相似，而是被放进一套预先运行的镜像系统。何塞·阿尔卡蒂奥第二和奥雷里亚诺第二的错位，尤其暴露了名字与命运之间的反讽。",
+          "圆形结构在这里不靠抽象观念成立，而靠可见的家族动作成立：相似、误认、互换、回归，每个新名字都带着旧阴影。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_repeated_names"
+        ]
+      },
+      {
+        "id": "article_circular_structure_text",
+        "title": "三、羊皮卷让阅读回到自身",
+        "paragraphs": [
+          "羊皮卷的圆比姓名更彻底。它不是记录已经过去的故事，而是让奥雷里亚诺·巴比伦在阅读中发现自己也只是被写下的内容。",
+          "当读者读到自己正在阅读，文本不再是世界之外的说明书，而成为世界自身的闭合方式。阅读因此变成存在的终点。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_decoding"
+        ]
+      },
+      {
+        "id": "article_circular_structure_end",
+        "title": "四、终局把原初恐惧带回现实",
+        "paragraphs": [
+          "最后孩子的猪尾巴让开端处的血缘恐惧回到现实，蚂蚁与飓风则让自然和文本共同执行终局。",
+          "圆形结构的残酷在于，它不是让一切重新开始，而是证明一切早已开始过。马孔多的结束不是中断，而是一个被写定的圆终于合上。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_final_bloodline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_foreign_objects_civilization",
+    "slug": "foreign-objects-civilization",
+    "title": "从冰块到飞机：《百年孤独》中的外来之物与文明寓言",
+    "subtitle": "磁铁、火车、公司和飞机怎样改写马孔多",
+    "summary": "这篇专题追踪外来物的文明序列：吉卜赛人的奇迹先唤醒认知，火车和香蕉公司随后建立制度性外部时间，晚期的飞机计划则成为现代性迟到后的空中幻影。",
+    "thesis": "外来之物在《百年孤独》中从不只是工具，它们每一次进入马孔多，都会同时带来惊奇、秩序、剥夺和更深的孤独。",
+    "tags": [
+      "外来之物",
+      "文明寓言",
+      "现代性",
+      "火车",
+      "飞机"
+    ],
+    "sortOrder": 7,
+    "evidenceCardIds": [
+      "evidence_path_parchments_melquiades",
+      "evidence_article_ice_burns",
+      "evidence_path_banana_company_train",
+      "evidence_path_banana_company_order",
+      "evidence_article_gaston_airmail",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_parchments",
+      "path_banana_company",
+      "path_solitude_inheritance"
+    ],
+    "characterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia",
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_gaston",
+      "character_amaranta_ursula",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_memory",
+      "motif_banana_company",
+      "motif_parchments",
+      "motif_family",
+      "motif_weeds_primeval_plants"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_11",
+      "chapter_ohy_12",
+      "chapter_ohy_19",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_foreign_objects_civilization_wonders",
+        "title": "一、吉卜赛人的奇迹先打开世界",
+        "paragraphs": [
+          "磁铁、放大镜、航海仪器和冰块把外部世界带到马孔多边缘。它们像魔术，又像科学，使何塞·阿尔卡蒂奥·布恩迪亚相信知识可以撬开现实。",
+          "冰块是这条序列中最凝练的物象：它没有复杂机构，却让热带儿童第一次遭遇无法命名的感官经验。文明在这里还带着奇迹的光。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_melquiades",
+          "evidence_article_ice_burns"
+        ]
+      },
+      {
+        "id": "article_foreign_objects_civilization_rail",
+        "title": "二、火车把奇迹变成制度",
+        "paragraphs": [
+          "火车与早期吉卜赛奇观不同。它不只是让人观看，而是用固定时刻、车站和线路重组马孔多，使外部世界从惊叹变为制度。",
+          "当香蕉公司随之进入，外来之物不再中立。锌顶木屋、公司区域和管理秩序把镇子切开，现代性开始显露它的空间权力。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_train",
+          "evidence_path_banana_company_order"
+        ]
+      },
+      {
+        "id": "article_foreign_objects_civilization_airplane",
+        "title": "三、飞机成为迟到的空中幻影",
+        "paragraphs": [
+          "晚期马孔多迎来加斯通的自行车和航空邮政设想时，奇迹已经变了味。飞机不再像冰块那样带来童年震惊，而是在废墟上方变成等待。",
+          "这份等待照出文明寓言的终点：外部技术仍然许诺连接，但马孔多内部的血脉、宅邸和记忆已经走向无法修复的衰败。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_gaston_airmail"
+        ]
+      },
+      {
+        "id": "article_foreign_objects_civilization_text",
+        "title": "四、最后的外来物是文字",
+        "paragraphs": [
+          "所有物质奇迹都会锈蚀、腐烂或迟到，唯有羊皮卷在终章仍然安然无恙。它像最古老也最晚抵达的外来物，把马孔多的历史变成可被破译的文本。",
+          "因此，文明寓言的终点不是飞机抵达，而是阅读完成。马孔多最终不是被某件机器摧毁，而是在文字被读懂时被飓风抹去。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_ice_memory_latin_america",
+    "slug": "ice-memory-latin-america",
+    "title": "冰块、记忆与拉丁美洲的孤独",
+    "subtitle": "从童年触觉到大陆见证的写作源头",
+    "summary": "这篇专题把冰块读成马尔克斯式记忆的结晶：它从童年奇迹出发，连接外来现代性、家族叙事、香蕉公司创伤和拉丁美洲无人相信的现实。",
+    "thesis": "冰块的真正力量不在寒冷，而在它把私人记忆、感官悖论和拉丁美洲历史的不可置信性凝成同一个入口。",
+    "tags": [
+      "冰块",
+      "记忆",
+      "拉丁美洲",
+      "马尔克斯",
+      "历史见证"
+    ],
+    "sortOrder": 8,
+    "evidenceCardIds": [
+      "evidence_article_ice_burns",
+      "evidence_path_house_foundation",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_banana_company_rain",
+      "evidence_path_parchments_melquiades"
+    ],
+    "pathIds": [
+      "path_parchments",
+      "path_banana_company",
+      "path_buendia_house_decay"
+    ],
+    "characterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_jose_arcadio_segundo",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_memory",
+      "motif_time",
+      "motif_banana_company",
+      "motif_rain",
+      "motif_solitude"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_15",
+      "chapter_ohy_16"
+    ],
+    "sections": [
+      {
+        "id": "article_ice_memory_latin_america_touch",
+        "title": "一、冰块是记忆的第一块晶体",
+        "paragraphs": [
+          "冰块让《百年孤独》的记忆从身体开始。奥雷里亚诺·布恩迪亚上校童年触摸冰块时，把极冷说成灼烧，这个误认比科学解释更接近文学真实。",
+          "它说明马孔多面对未知时，语言总是慢半拍。世界先进入皮肤，再进入概念；正是在这道迟滞中，魔幻现实主义获得了它的感官基础。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_ice_burns"
+        ]
+      },
+      {
+        "id": "article_ice_memory_latin_america_home",
+        "title": "二、私人记忆被放进家族空间",
+        "paragraphs": [
+          "马孔多的创世、宅邸的建立和吉卜赛人的到来，使冰块不只是个人童年回忆，而被安放在一整套家族和城镇空间里。",
+          "这种写法把记忆变成可居住的东西。读者进入的不是一段传记材料，而是一座由河岸、宅邸、帐篷和奇迹共同搭成的记忆建筑。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_house_foundation",
+          "evidence_path_parchments_melquiades"
+        ]
+      },
+      {
+        "id": "article_ice_memory_latin_america_history",
+        "title": "三、历史创伤也需要被重新命名",
+        "paragraphs": [
+          "如果冰块代表一种无法用旧经验解释的惊奇，那么香蕉公司大屠杀代表另一种无法被外部世界相信的真实。前者让语言发明隐喻，后者让见证者被误认为疯子。",
+          "拉丁美洲的孤独就在这里显形：现实本身已经荒诞到难以被承认，文学必须用魔幻的语调把它重新说出来，才能让伤口重新获得可见性。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre"
+        ]
+      },
+      {
+        "id": "article_ice_memory_latin_america_rain",
+        "title": "四、雨把记忆保存为潮湿档案",
+        "paragraphs": [
+          "冰块是凝固的记忆，雨则是溶解中的记忆。香蕉公司之后的大雨冲刷痕迹，却也把创伤渗入马孔多的墙壁、道路和身体。",
+          "从冰到雨，小说完成了一次物质状态的转换：记忆可以坚硬如晶体，也可以漫长如潮湿；两者共同构成拉丁美洲孤独的感官史。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_rain"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_cruel_april_life_death",
+    "slug": "cruel-april-life-death",
+    "title": "四月这最残忍的季节：生与死的残酷悖论",
+    "subtitle": "从文学告别到马孔多的循环时间",
+    "summary": "这篇专题把宽泛的四月材料收束为《百年孤独》内部的生死悖论：雨中的沟通失败、战争后的耗尽、家族晚年的凋零和终章的创生与毁灭。",
+    "thesis": "《百年孤独》的残酷不在死亡本身，而在生命总以复兴、爱情和新生的面貌，把人物再次送回同一个终局。",
+    "tags": [
+      "生死悖论",
+      "四月",
+      "告别",
+      "循环时间",
+      "终局"
+    ],
+    "sortOrder": 9,
+    "evidenceCardIds": [
+      "evidence_article_rain_telegram",
+      "evidence_path_solitude_war",
+      "evidence_path_house_rain_corrosion",
+      "evidence_path_solitude_final_bloodline",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_solitude_inheritance",
+      "path_buendia_house_decay",
+      "path_parchments"
+    ],
+    "characterIds": [
+      "character_gerineldo_marquez",
+      "character_aureliano_buendia_colonel",
+      "character_ursula",
+      "character_aureliano_segundo",
+      "character_petra_cotes",
+      "character_amaranta_ursula",
+      "character_little_aureliano",
+      "character_final_aureliano"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_solitude",
+      "motif_war",
+      "motif_family",
+      "motif_time",
+      "motif_pig_tail",
+      "motif_parchments"
+    ],
+    "chapterIds": [
+      "chapter_ohy_09",
+      "chapter_ohy_16",
+      "chapter_ohy_19",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_cruel_april_life_death_weather",
+        "title": "一、残酷从不能说出口开始",
+        "paragraphs": [
+          "“马孔多在下雨”看似只是天气，却把赫里内勒多·马尔克斯上校的疲惫和孤独压缩成一封无法展开的电报。",
+          "残酷在这里不是暴力场面，而是情感失去表达通道。朋友仍能通信，却已经不能真正听见彼此。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_rain_telegram"
+        ]
+      },
+      {
+        "id": "article_cruel_april_life_death_war",
+        "title": "二、战争后的生命缩回手艺循环",
+        "paragraphs": [
+          "奥雷里亚诺·布恩迪亚上校的晚年显示，战争结束并不等于生命复原。小金鱼的制作与熔化，让活着变成一套没有出口的仪式。",
+          "这种残酷接近季节悖论：外部世界似乎仍在更替，人物内部却停在同一个循环里，既没有真正死亡，也没有真正更新。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_war"
+        ]
+      },
+      {
+        "id": "article_cruel_april_life_death_rain",
+        "title": "三、雨季让复苏变成腐朽",
+        "paragraphs": [
+          "雨本应滋养生命，但马孔多的雨让宅邸、道路和记忆一起腐烂。生长在这里不再意味着复兴，而意味着蟾蜍、蜗牛、湿气和排水沟。",
+          "这正是《百年孤独》的生死悖论：自然越旺盛，人的秩序越衰败；生命力越漫溢，家族越接近废墟。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_house_rain_corrosion"
+        ]
+      },
+      {
+        "id": "article_cruel_april_life_death_final",
+        "title": "四、最后的新生也是最终告别",
+        "paragraphs": [
+          "阿玛兰妲·乌尔苏拉和奥雷里亚诺·巴比伦的爱情看似给家族一次春天般的回归，但最后孩子的出生立即把最古老的恐惧带回现实。",
+          "新生没有打开未来，反而召来蚂蚁、羊皮卷和飓风。马孔多的最后一幕因此不是单纯死亡，而是生命以最残酷的形式证明循环已经完成。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_final_bloodline",
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_latin_american_boom_magic_realism",
+    "slug": "latin-american-boom-magic-realism",
+    "title": "拉美文学爆炸：马尔克斯与魔幻现实主义",
+    "subtitle": "当大陆用自己的方式重新定义真实",
+    "summary": "这篇专题把拉美文学爆炸与《百年孤独》的文本机制相连：魔幻现实主义不是给现实添加奇景，而是用冷静语调承认拉丁美洲现实本身的不可置信。",
+    "thesis": "马尔克斯的魔幻现实主义之所以成立，是因为它把被中心叙事忽视的拉丁美洲经验，写成一种能被世界倾听的真实语法。",
+    "tags": [
+      "拉美文学爆炸",
+      "魔幻现实主义",
+      "马尔克斯",
+      "现实",
+      "拉丁美洲"
+    ],
+    "sortOrder": 10,
+    "evidenceCardIds": [
+      "evidence_path_parchments_melquiades",
+      "evidence_article_remedios_ascension",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_solitude_war",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_parchments",
+      "path_banana_company",
+      "path_solitude_inheritance"
+    ],
+    "characterIds": [
+      "character_melquiades",
+      "character_remedios_the_beauty",
+      "character_jose_arcadio_segundo",
+      "character_aureliano_buendia_colonel",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_time",
+      "motif_memory",
+      "motif_banana_company",
+      "motif_solitude",
+      "motif_war",
+      "motif_parchments",
+      "motif_wind_hurricane"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_09",
+      "chapter_ohy_12",
+      "chapter_ohy_15",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_latin_american_boom_magic_realism_reality",
+        "title": "一、魔幻现实主义首先是一种真实观",
+        "paragraphs": [
+          "拉美文学爆炸的意义，不在于一批作家突然学会制造奇景，而在于他们开始用自己的历史和民间经验重新定义真实。",
+          "梅尔基亚德斯带来的奇迹、美人儿蕾梅黛丝的升天和羊皮卷的预言，都不是逃离现实的装饰，而是让现实获得另一套可被理解的秩序。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_melquiades",
+          "evidence_article_remedios_ascension"
+        ]
+      },
+      {
+        "id": "article_latin_american_boom_magic_realism_violence",
+        "title": "二、最魔幻的常常是政治现实",
+        "paragraphs": [
+          "香蕉公司大屠杀被官方抹除时，小说最荒诞的不是尸体列车，而是整个城镇随后被要求相信什么也没有发生。",
+          "在这个意义上，魔幻现实主义是更深的现实主义。它并不把暴力诗化，而是揭示现实已经荒诞到普通纪实语法难以承载。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre"
+        ]
+      },
+      {
+        "id": "article_latin_american_boom_magic_realism_solitude",
+        "title": "三、孤独把地方经验推向普遍处境",
+        "paragraphs": [
+          "奥雷里亚诺·布恩迪亚上校的战争和小金鱼循环，把拉丁美洲政治经验写成一种普遍的存在困境：人为了尊严行动，却常常被行动本身封闭。",
+          "马孔多之所以能越过地域边界，不是因为它抹掉了地方性，而是因为它把地方性写到足够深，深到触及人类共同的孤独。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_war"
+        ]
+      },
+      {
+        "id": "article_latin_american_boom_magic_realism_language",
+        "title": "四、羊皮卷让文学成为见证方式",
+        "paragraphs": [
+          "羊皮卷最终证明，马孔多的现实必须经由文字才能被完整看见。文学不是历史之外的安慰，而是让被否认、被遗忘、被误认的经验重新成形。",
+          "这也是拉美文学爆炸留给研究档案的核心线索：当现实无法被常规方法相信，文学就必须发明新的可信方式。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_myth_narrative_solitude",
+    "slug": "myth-narrative-solitude",
+    "title": "神话、叙述与孤独：论《百年孤独》的文学宇宙",
+    "subtitle": "创世、冷静语调、循环结构与拉丁美洲寓言",
+    "summary": "这篇专题把源文中的重复草稿合并为一篇文学宇宙总论：马孔多如何以神话方式创世，以冷静语调容纳魔幻，以循环结构组织家族命运，并以政治寓言照见拉丁美洲。",
+    "thesis": "《百年孤独》的文学宇宙不是由奇情堆成，而是由神话结构、叙述语调、循环时间和历史寓言彼此咬合而成。",
+    "tags": [
+      "文学宇宙",
+      "神话结构",
+      "叙述语言",
+      "孤独",
+      "政治寓言"
+    ],
+    "sortOrder": 11,
+    "evidenceCardIds": [
+      "evidence_path_house_foundation",
+      "evidence_path_parchments_melquiades",
+      "evidence_article_remedios_ascension",
+      "evidence_path_solitude_repeated_names",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_buendia_house_decay",
+      "path_parchments",
+      "path_solitude_inheritance",
+      "path_banana_company"
+    ],
+    "characterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula",
+      "character_melquiades",
+      "character_remedios_the_beauty",
+      "character_jose_arcadio_segundo",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time",
+      "motif_memory",
+      "motif_solitude",
+      "motif_banana_company",
+      "motif_parchments",
+      "motif_wind_hurricane"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_09",
+      "chapter_ohy_12",
+      "chapter_ohy_15",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_myth_narrative_solitude_creation",
+        "title": "一、马孔多以创世神话开场",
+        "paragraphs": [
+          "马孔多的建立带有创世叙事的庄严：河岸、宅邸、年轻村民和未命名的事物共同构成一个新世界的清晨。",
+          "梅尔基亚德斯随后把奇迹和知识带入这座新世界，使马孔多从地方村镇变成神话与文明相遇的实验场。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_house_foundation",
+          "evidence_path_parchments_melquiades"
+        ]
+      },
+      {
+        "id": "article_myth_narrative_solitude_tone",
+        "title": "二、冷静语调让奇迹像事实一样发生",
+        "paragraphs": [
+          "美人儿蕾梅黛丝升天的力量，不在叙述者宣布它多么神秘，而在它被写成一件几乎日常的事：床单、微风、离地和旁观者的反应自然连成一体。",
+          "这种冷静语调是魔幻现实主义的关键。奇迹不需要解释，只需要被放进生活秩序中，现实便自动变得宽阔。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_remedios_ascension"
+        ]
+      },
+      {
+        "id": "article_myth_narrative_solitude_cycle",
+        "title": "三、家族循环把时间变成结构",
+        "paragraphs": [
+          "布恩迪亚家族的重复不是单纯情节相似，而是叙事结构本身。名字、性格、欲望和死亡方式反复折返，使时间看起来像一条盘绕的道路。",
+          "这种循环既制造宿命感，也让读者不断重新识别人物。家族史因此成为理解马孔多宇宙的骨架。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_repeated_names"
+        ]
+      },
+      {
+        "id": "article_myth_narrative_solitude_history",
+        "title": "四、政治寓言把神话钉回历史",
+        "paragraphs": [
+          "香蕉公司大屠杀让马孔多的神话空间突然显出历史骨骼。外来资本、国家暴力和集体失忆共同说明，这座城镇并没有悬浮在现实之外。",
+          "终章羊皮卷再把神话和历史合为文本：马孔多既是一个地方，也是一部被写下、被破译、被风抹去的拉丁美洲寓言。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre",
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_fatal_beauty_remedios",
+    "slug": "fatal-beauty-remedios",
+    "title": "致命的美：从玛赛拉到蕾梅黛丝的文学谱系",
+    "subtitle": "美人儿蕾梅黛丝如何改写“无情美人”母题",
+    "summary": "这篇专题保留源文中与《百年孤独》直接相关的比较文学论证：美人儿蕾梅黛丝并不是被动的致命客体，她以不可解释的纯真和升天，拆解了男性凝视对美的占有冲动。",
+    "thesis": "美人儿蕾梅黛丝的“致命性”并非来自她主动伤害他人，而来自马孔多社会无法容纳一种拒绝被解释、被欲望化、被占有的美。",
+    "tags": [
+      "美人儿蕾梅黛丝",
+      "致命的美",
+      "比较文学",
+      "女性主体",
+      "升天"
+    ],
+    "sortOrder": 12,
+    "evidenceCardIds": [
+      "evidence_article_remedios_ascension",
+      "evidence_path_banana_company_butterflies",
+      "evidence_path_solitude_failed_love"
+    ],
+    "pathIds": [
+      "path_banana_company",
+      "path_solitude_inheritance"
+    ],
+    "characterIds": [
+      "character_remedios_the_beauty",
+      "character_ursula",
+      "character_fernanda",
+      "character_amaranta",
+      "character_meme",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_wind_hurricane",
+      "motif_house_plants",
+      "motif_yellow_butterflies",
+      "motif_banana_company"
+    ],
+    "chapterIds": [
+      "chapter_ohy_12",
+      "chapter_ohy_14",
+      "chapter_ohy_15"
+    ],
+    "sections": [
+      {
+        "id": "article_fatal_beauty_remedios_subject",
+        "title": "一、美人儿蕾梅黛丝拒绝成为可解释对象",
+        "paragraphs": [
+          "“致命的美”常被写成诱惑、惩罚或男性毁灭的原因，但美人儿蕾梅黛丝更像一个不进入这套逻辑的人。她不是设计陷阱的人，而是拒绝理解陷阱为何存在的人。",
+          "这种纯真并不柔弱。正因为她不按欲望社会的规则回应，马孔多才不断把自己的焦虑投射到她身上。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_remedios_ascension"
+        ]
+      },
+      {
+        "id": "article_fatal_beauty_remedios_ascension",
+        "title": "二、升天把美从占有中抽离",
+        "paragraphs": [
+          "美人儿蕾梅黛丝升天不是死亡，也不是婚姻或惩罚，而是一种空间上的撤离。她没有被马孔多解释完，就离开了地面。",
+          "这一刻改写了“无情美人”母题：致命的不是她的意志，而是旁人想把她固定成欲望对象的失败。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_remedios_ascension"
+        ]
+      },
+      {
+        "id": "article_fatal_beauty_remedios_butterflies",
+        "title": "三、与梅梅的爱情形成对照",
+        "paragraphs": [
+          "梅梅与马乌里肖·巴比伦的爱情仍处在身体、气味、黄蝴蝶和家族规训之中，因此会被费尔南达和公司时代的秩序截断。",
+          "美人儿蕾梅黛丝的美则更彻底地脱离社会交易。一个被放逐进沉默，一个离开地面；两种女性命运共同显示，马孔多很难容纳不服从家族秩序的欲望和美。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_butterflies",
+          "evidence_path_solitude_failed_love"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_transparent_poetics",
+    "slug": "transparent-poetics",
+    "title": "透明的隐喻：《百年孤独》中冰块、镜子与消逝的诗学",
+    "subtitle": "从触觉惊奇到镜子之城的终局透明",
+    "summary": "这篇专题合并源文中的重复草稿，把冰块、镜子、玻璃和透明意象读成一条认知路线：从触摸未知，到反观自身，再到世界在被看穿时消失。",
+    "thesis": "《百年孤独》的透明诗学并不通向澄明救赎，而通向一种残酷的终局：当马孔多终于被完全看穿，它也失去了继续存在的阴影。",
+    "tags": [
+      "透明",
+      "冰块",
+      "镜子之城",
+      "消逝",
+      "诗学"
+    ],
+    "sortOrder": 13,
+    "evidenceCardIds": [
+      "evidence_article_ice_burns",
+      "evidence_article_mirror_city_erasure",
+      "evidence_path_parchments_decoding",
+      "evidence_path_parchments_erasure"
+    ],
+    "pathIds": [
+      "path_parchments",
+      "path_buendia_house_decay"
+    ],
+    "characterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_buendia",
+      "character_little_aureliano",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_memory",
+      "motif_parchments",
+      "motif_light_darkness",
+      "motif_wind_hurricane"
+    ],
+    "chapterIds": [
+      "chapter_ohy_01",
+      "chapter_ohy_18",
+      "chapter_ohy_20"
+    ],
+    "sections": [
+      {
+        "id": "article_transparent_poetics_ice",
+        "title": "一、冰块是透明诗学的起点",
+        "paragraphs": [
+          "冰块透明、坚硬、寒冷，却被童年的奥雷里亚诺·布恩迪亚上校感受为灼烧。透明并没有带来理解，反而暴露经验的不足。",
+          "这就是透明诗学的第一层：看得见不等于懂得，触摸到也不等于能命名。马孔多从一开始就面对一种会发光也会逃离解释的物质。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_ice_burns"
+        ]
+      },
+      {
+        "id": "article_transparent_poetics_mirror",
+        "title": "二、镜子让时间反射自身",
+        "paragraphs": [
+          "镜子之城把马孔多从地方变成反射装置。名字重复、命运重复、战争重复，所有人物都像在镜面中看见前代人的影子。",
+          "这种镜像不是自我认识的胜利，而是自我认识的陷阱。越能看见循环，越难逃出循环。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_mirror_city_erasure"
+        ]
+      },
+      {
+        "id": "article_transparent_poetics_reading",
+        "title": "三、羊皮卷让透明抵达绝对",
+        "paragraphs": [
+          "奥雷里亚诺·巴比伦破译羊皮卷时，文本、读者和世界之间的距离被取消。他读到的是自己正在经历的现实。",
+          "透明在这里达到极点：没有秘密，没有遮蔽，也没有可以推迟的未来。所有意义都显现出来，世界也因此耗尽。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_decoding"
+        ]
+      },
+      {
+        "id": "article_transparent_poetics_erasure",
+        "title": "四、被看穿的世界被风带走",
+        "paragraphs": [
+          "终章的飓风不是突然降临的灾害，而是透明诗学的最后动作。当镜子之城被彻底读懂，它便从世人记忆中根除。",
+          "所以，透明不是救赎，而是一种消逝方式。马孔多没有死在黑暗里，而是死在终于被看穿的一刻。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_parchments_erasure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "article_macondo_rain_metaphor",
+    "slug": "macondo-rain-metaphor",
+    "title": "马孔多在下雨的隐喻",
+    "subtitle": "雨如何承载战争疲惫、历史失忆与孤独语言",
+    "summary": "这篇专题把雨意象拆成三层：第九章电报里的无法言说，第十六章暴雨里的历史封存，以及宅邸和家族在潮湿中失去未来的过程。",
+    "thesis": "马孔多的雨不是天气，而是语言失效之后的情感容器，也是香蕉公司创伤被冲刷又被保存的历史介质。",
+    "tags": [
+      "雨",
+      "马孔多在下雨",
+      "孤独",
+      "历史失忆",
+      "香蕉公司"
+    ],
+    "sortOrder": 14,
+    "evidenceCardIds": [
+      "evidence_article_rain_telegram",
+      "evidence_path_banana_company_massacre",
+      "evidence_path_banana_company_rain",
+      "evidence_path_house_rain_corrosion",
+      "evidence_path_solitude_war"
+    ],
+    "pathIds": [
+      "path_solitude_inheritance",
+      "path_banana_company",
+      "path_buendia_house_decay"
+    ],
+    "characterIds": [
+      "character_gerineldo_marquez",
+      "character_aureliano_buendia_colonel",
+      "character_jose_arcadio_segundo",
+      "character_ursula",
+      "character_aureliano_segundo",
+      "character_petra_cotes"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_solitude",
+      "motif_war",
+      "motif_banana_company",
+      "motif_memory",
+      "motif_time",
+      "motif_family"
+    ],
+    "chapterIds": [
+      "chapter_ohy_09",
+      "chapter_ohy_15",
+      "chapter_ohy_16",
+      "chapter_ohy_17"
+    ],
+    "sections": [
+      {
+        "id": "article_macondo_rain_metaphor_telegram",
+        "title": "一、雨先是一句无法展开的话",
+        "paragraphs": [
+          "赫里内勒多·马尔克斯上校说“马孔多在下雨”时，谈论的并不只是天气。他把战争疲惫、爱情受挫和对故乡的怀念压缩成一句安全的气象事实。",
+          "奥雷里亚诺·布恩迪亚上校的冷淡回应，则让这句雨中的话变得更加孤独。两个人仍能通过电报相连，却已经无法共享同一种情感语法。"
+        ],
+        "evidenceCardIds": [
+          "evidence_article_rain_telegram"
+        ]
+      },
+      {
+        "id": "article_macondo_rain_metaphor_history",
+        "title": "二、暴雨覆盖香蕉公司创伤",
+        "paragraphs": [
+          "香蕉公司大屠杀之后，雨从私人情感扩展为历史介质。它冲刷车站、公司区域和尸体踪迹，也让幸存者的证词越来越像潮湿的幻觉。",
+          "但雨并非单纯抹除。它把创伤浸入马孔多的日常，使遗忘看似自然，却又让每一处腐朽都成为历史曾经发生的反证。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_banana_company_massacre",
+          "evidence_path_banana_company_rain"
+        ]
+      },
+      {
+        "id": "article_macondo_rain_metaphor_house",
+        "title": "三、宅邸在潮湿中失去秩序",
+        "paragraphs": [
+          "雨季中的布恩迪亚宅邸不再是创世时期的样板空间，而变成一项永无止境的潮湿工程。排水、清理、修补取代了家族复兴。",
+          "这说明雨的破坏并不靠猛烈，而靠持续。它一点点瓦解家中秩序，让衰败变成日常生活的基本质地。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_house_rain_corrosion"
+        ]
+      },
+      {
+        "id": "article_macondo_rain_metaphor_solitude",
+        "title": "四、雨声放大战争后的孤独",
+        "paragraphs": [
+          "雨与战争虚无彼此呼应。奥雷里亚诺·布恩迪亚上校退回小金鱼循环，赫里内勒多·马尔克斯上校的电报也无人真正回应，孤独被雨声放大成时代背景。",
+          "因此，马孔多的雨是一种总隐喻：它下在天气里，也下在历史、宅邸、友情和记忆里。雨停之后，真正被浸透的东西并不会恢复干燥。"
+        ],
+        "evidenceCardIds": [
+          "evidence_path_solitude_war"
+        ]
+      }
+    ]
+  }
+]

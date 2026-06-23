@@ -1,0 +1,296 @@
+[
+  {
+    "id": "path_banana_company",
+    "slug": "banana-company",
+    "title": "香蕉公司线",
+    "summary": "从黄色火车进入马孔多开始，追踪现代性、爱情、罢工、大屠杀和雨水如何把一个城镇推入集体遗忘。",
+    "thesis": "香蕉公司不是单个历史事件，而是一条把外部秩序、私人爱情和公共暴力缝在一起的命运轨道。",
+    "tags": ["香蕉公司", "现代性", "殖民创伤", "遗忘", "黄蝴蝶"],
+    "coverMotifId": "motif_banana_company",
+    "steps": [
+      {
+        "id": "path_banana_company_train",
+        "title": "黄色火车进入",
+        "eventIds": ["event_train_arrives"],
+        "chapterIds": ["chapter_ohy_11"],
+        "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo"],
+        "locationIds": ["location_station"],
+        "motifIds": ["motif_banana_company", "motif_time"],
+        "interpretation": "火车把马孔多从封闭村镇拖入外部时间。它看似带来文明速度，实则先把城镇接入一套不由马孔多掌控的命令系统。"
+      },
+      {
+        "id": "path_banana_company_order",
+        "title": "公司秩序扩张",
+        "eventIds": ["event_banana_company_arrives", "event_foreign_order_expands"],
+        "chapterIds": ["chapter_ohy_11"],
+        "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo", "character_fernanda", "character_mauricio_babilonia"],
+        "locationIds": ["location_station", "location_banana_company"],
+        "motifIds": ["motif_banana_company", "motif_memory", "motif_family"],
+        "interpretation": "香蕉公司带来的不只是产业，还有新的空间等级、语言秩序和生活节奏。马孔多开始被外来制度重新命名，家族宅邸也被这股秩序的阴影照到。"
+      },
+      {
+        "id": "path_banana_company_butterflies",
+        "title": "黄蝴蝶爱情",
+        "eventIds": ["event_yellow_butterflies_love", "event_mauricio_shot", "event_meme_exile"],
+        "chapterIds": ["chapter_ohy_12", "chapter_ohy_14"],
+        "characterIds": ["character_meme", "character_mauricio_babilonia", "character_fernanda"],
+        "locationIds": ["location_banana_company", "location_buendia_house", "location_station"],
+        "motifIds": ["motif_yellow_butterflies", "motif_banana_company", "motif_solitude"],
+        "interpretation": "黄蝴蝶让爱情获得可见的形状，也暴露出公司区域、宅邸礼法和家族权力之间的裂缝。私人欲望在这里已经无法与公共暴力分开。"
+      },
+      {
+        "id": "path_banana_company_strike",
+        "title": "工人罢工",
+        "eventIds": ["event_banana_strike"],
+        "chapterIds": ["chapter_ohy_15"],
+        "characterIds": ["character_jose_arcadio_segundo"],
+        "locationIds": ["location_square", "location_station", "location_banana_company"],
+        "motifIds": ["motif_banana_company", "motif_memory", "motif_war"],
+        "interpretation": "罢工把长期隐藏的压迫推到广场和车站。马孔多第一次清楚看见，公司秩序的尽头不是繁荣，而是可以被武力收束的沉默。"
+      },
+      {
+        "id": "path_banana_company_massacre",
+        "title": "大屠杀与见证",
+        "eventIds": ["event_massacre_witness"],
+        "chapterIds": ["chapter_ohy_15"],
+        "characterIds": ["character_jose_arcadio_segundo"],
+        "locationIds": ["location_station", "location_banana_company", "location_cemetery"],
+        "motifIds": ["motif_banana_company", "motif_memory", "motif_rain"],
+        "interpretation": "何塞·阿尔卡蒂奥第二成为幸存见证者，但见证本身被推入不被承认的黑暗。历史发生了，却被迫像没有发生过一样留在他体内。"
+      },
+      {
+        "id": "path_banana_company_rain",
+        "title": "暴雨与遗忘",
+        "eventIds": ["event_rain_begins", "event_rain_corrosion", "event_rain_stops"],
+        "chapterIds": ["chapter_ohy_16"],
+        "characterIds": ["character_ursula", "character_aureliano_segundo", "character_jose_arcadio_segundo", "character_petra_cotes"],
+        "locationIds": ["location_station", "location_banana_company"],
+        "motifIds": ["motif_rain", "motif_banana_company", "motif_memory", "motif_time"],
+        "interpretation": "大雨像一场漫长的清洗，也像一场更深的封存。公司离开后，马孔多留下的不是答案，而是潮湿、腐蚀和越来越难说出口的真相。"
+      }
+    ]
+  },
+  {
+    "id": "path_buendia_house_decay",
+    "slug": "buendia-house-decay",
+    "title": "布恩迪亚宅邸衰败线",
+    "summary": "从创世房屋到终局废墟，追踪宅邸如何从秩序中心变成秘密、雨水、羊皮卷和蚂蚁的聚集地。",
+    "thesis": "布恩迪亚宅邸是一部缩小的马孔多史，墙壁保存家族的荣耀，也保存家族迟早要偿还的腐蚀。",
+    "tags": ["宅邸", "家族", "衰败", "记忆", "终局"],
+    "coverMotifId": "motif_family",
+    "steps": [
+      {
+        "id": "path_house_foundation",
+        "title": "创世房屋",
+        "eventIds": ["event_foundation_of_macondo"],
+        "chapterIds": ["chapter_ohy_01"],
+        "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+        "locationIds": ["location_buendia_house", "location_riverbank"],
+        "motifIds": ["motif_family", "motif_time"],
+        "interpretation": "宅邸最初是马孔多秩序的样板。它以乌尔苏拉·伊瓜兰的劳作和何塞·阿尔卡蒂奥·布恩迪亚的创世冲动为根基，像一座刚刚被命名的世界。"
+      },
+      {
+        "id": "path_house_secrets",
+        "title": "婚恋与秘密",
+        "eventIds": ["event_arcadio_birth_secret", "event_pietro_crespi_courtship", "event_remedios_marriage"],
+        "chapterIds": ["chapter_ohy_02", "chapter_ohy_04"],
+        "characterIds": ["character_arcadio", "character_pilar_ternera", "character_amaranta", "character_rebeca", "character_pietro_crespi", "character_aureliano_buendia_colonel", "character_remedios_moscote"],
+        "locationIds": ["location_buendia_house"],
+        "motifIds": ["motif_family", "motif_solitude"],
+        "interpretation": "宅邸的房间越多，秘密也越多。婚恋、身世和拒绝让这座房屋从公共秩序中心转为私人欲望的迷宫。"
+      },
+      {
+        "id": "path_house_insomnia",
+        "title": "失眠与记忆防线",
+        "eventIds": ["event_rebeca_arrival", "event_insomnia_plague", "event_melquiades_returns"],
+        "chapterIds": ["chapter_ohy_03"],
+        "characterIds": ["character_rebeca", "character_jose_arcadio_buendia", "character_ursula", "character_melquiades"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_memory", "motif_time", "motif_family"],
+        "interpretation": "失眠症让宅邸变成记忆保卫战的前线。标牌、物名和梅尔基亚德斯的回归，都说明家族空间必须先守住语言，才守得住自身。"
+      },
+      {
+        "id": "path_house_blindness",
+        "title": "失明与栗树",
+        "eventIds": ["event_ursula_blindness", "event_chestnut_binding"],
+        "chapterIds": ["chapter_ohy_13"],
+        "characterIds": ["character_ursula", "character_jose_arcadio_buendia"],
+        "locationIds": ["location_buendia_house", "location_chestnut_tree"],
+        "motifIds": ["motif_memory", "motif_chestnut_tree", "motif_family", "motif_time"],
+        "interpretation": "乌尔苏拉·伊瓜兰失明后仍能辨认宅邸的秩序，而栗树则把创始人的孤独固定在庭院中心。看不见与被捆绑共同构成宅邸的晚年姿态。"
+      },
+      {
+        "id": "path_house_rain_corrosion",
+        "title": "雨季腐蚀",
+        "eventIds": ["event_rain_begins", "event_rain_corrosion", "event_house_declines"],
+        "chapterIds": ["chapter_ohy_16", "chapter_ohy_17"],
+        "characterIds": ["character_ursula", "character_aureliano_segundo", "character_petra_cotes", "character_santa_sofia", "character_fernanda", "character_little_aureliano"],
+        "locationIds": ["location_buendia_house", "location_banana_company"],
+        "motifIds": ["motif_rain", "motif_memory", "motif_family"],
+        "interpretation": "雨不只冲刷香蕉公司区域，也把宅邸的支撑一点点泡软。等雨停下来，留下的是灰尘、杂草和无法恢复的内部秩序。"
+      },
+      {
+        "id": "path_house_parchment_room",
+        "title": "羊皮卷房间",
+        "eventIds": ["event_santa_sofia_leaves", "event_parchments_guarded"],
+        "chapterIds": ["chapter_ohy_18"],
+        "characterIds": ["character_santa_sofia", "character_little_aureliano", "character_melquiades", "character_jose_arcadio_segundo"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_parchments", "motif_memory", "motif_time", "motif_family"],
+        "interpretation": "当照料者离开，宅邸开始把活人的生活让位给文本。梅尔基亚德斯的房间成了最后的中枢，家族历史收缩为等待破译的符号。"
+      },
+      {
+        "id": "path_house_ants_hurricane",
+        "title": "蚂蚁与飓风",
+        "eventIds": ["event_final_child_devoured", "event_parchments_decoded", "event_macondo_erased"],
+        "chapterIds": ["chapter_ohy_20"],
+        "characterIds": ["character_final_aureliano", "character_little_aureliano", "character_melquiades"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_ants", "motif_parchments", "motif_family", "motif_solitude", "motif_time"],
+        "interpretation": "终局时，宅邸不再庇护任何血脉。蚂蚁收回身体，羊皮卷收回历史，飓风收回马孔多，房屋完成从创世中心到废墟文本的全部路程。"
+      }
+    ]
+  },
+  {
+    "id": "path_parchments",
+    "slug": "parchments",
+    "title": "羊皮卷线",
+    "summary": "沿着梅尔基亚德斯、房间、守护、破译和飓风，阅读《百年孤独》中命运文本如何等待它最后的读者。",
+    "thesis": "羊皮卷不是终章才出现的谜底，而是从梅尔基亚德斯第一次进入马孔多起就埋下的阅读命运。",
+    "tags": ["羊皮卷", "梅尔基亚德斯", "预言", "阅读", "终章"],
+    "coverMotifId": "motif_parchments",
+    "steps": [
+      {
+        "id": "path_parchments_melquiades",
+        "title": "梅尔基亚德斯带来奇迹",
+        "eventIds": ["event_melquiades_first_wonders"],
+        "chapterIds": ["chapter_ohy_01"],
+        "characterIds": ["character_melquiades", "character_jose_arcadio_buendia"],
+        "locationIds": ["location_riverbank", "location_gypsy_camp"],
+        "motifIds": ["motif_time", "motif_memory"],
+        "interpretation": "梅尔基亚德斯第一次出现时，知识还像奇迹一样发亮。后来羊皮卷的晦暗，正从这些早期奇迹里长出自己的阴影。"
+      },
+      {
+        "id": "path_parchments_room_memory",
+        "title": "房间与记忆",
+        "eventIds": ["event_melquiades_returns", "event_insomnia_plague"],
+        "chapterIds": ["chapter_ohy_03"],
+        "characterIds": ["character_melquiades", "character_rebeca", "character_jose_arcadio_buendia", "character_ursula"],
+        "locationIds": ["location_melquiades_room", "location_buendia_house"],
+        "motifIds": ["motif_memory", "motif_time"],
+        "interpretation": "梅尔基亚德斯的房间把马孔多从遗忘边缘拉回。它既是知识密室，也是未来羊皮卷能够被保存下来的第一处时间避难所。"
+      },
+      {
+        "id": "path_parchments_last_reader",
+        "title": "最后读者被隐藏",
+        "eventIds": ["event_little_aureliano_hidden"],
+        "chapterIds": ["chapter_ohy_15"],
+        "characterIds": ["character_little_aureliano", "character_fernanda", "character_meme", "character_mauricio_babilonia"],
+        "locationIds": ["location_buendia_house"],
+        "motifIds": ["motif_family", "motif_solitude"],
+        "interpretation": "奥雷里亚诺·巴比伦先作为被隐藏的孩子进入宅邸，后来才成为最后的读者。他的孤立不是意外，而是羊皮卷等待阅读的前置条件。"
+      },
+      {
+        "id": "path_parchments_guarded",
+        "title": "守护与研究",
+        "eventIds": ["event_parchments_guarded"],
+        "chapterIds": ["chapter_ohy_18"],
+        "characterIds": ["character_little_aureliano", "character_melquiades", "character_jose_arcadio_segundo"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_parchments", "motif_memory", "motif_time"],
+        "interpretation": "何塞·阿尔卡蒂奥第二守着大屠杀的真相，奥雷里亚诺·巴比伦守着难懂的文本。两种守护在房间里相遇，历史与预言因此重叠。"
+      },
+      {
+        "id": "path_parchments_decoding",
+        "title": "破译命运",
+        "eventIds": ["event_parchments_decoded", "event_final_child_devoured"],
+        "chapterIds": ["chapter_ohy_20"],
+        "characterIds": ["character_little_aureliano", "character_melquiades", "character_final_aureliano"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_parchments", "motif_time", "motif_memory", "motif_ants", "motif_family"],
+        "interpretation": "破译不是获得自由，而是确认自己已经置身文本内部。奥雷里亚诺·巴比伦读懂的每一行，都同时在取消逃离的可能。"
+      },
+      {
+        "id": "path_parchments_erasure",
+        "title": "马孔多消失",
+        "eventIds": ["event_macondo_erased"],
+        "chapterIds": ["chapter_ohy_20"],
+        "characterIds": ["character_little_aureliano", "character_melquiades"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_parchments", "motif_time", "motif_solitude", "motif_family"],
+        "interpretation": "羊皮卷读完之时，文本和世界同时闭合。马孔多不是被解释之后留下来，而是在被彻底读懂的瞬间完成消失。"
+      }
+    ]
+  },
+  {
+    "id": "path_solitude_inheritance",
+    "slug": "solitude-inheritance",
+    "title": "孤独遗传线",
+    "summary": "从血脉恐惧、重复姓名、禁忌欲望、战争闭环和爱情失败，读到布恩迪亚家族终局血脉的完成。",
+    "thesis": "布恩迪亚家的孤独不是性格缺陷，而是一种在名字、欲望、战争和阅读中不断复制的家族语法。",
+    "tags": ["孤独", "家族", "命运", "禁忌", "血脉"],
+    "coverMotifId": "motif_solitude",
+    "steps": [
+      {
+        "id": "path_solitude_blood_fear",
+        "title": "血脉恐惧",
+        "eventIds": ["event_original_sin_memory"],
+        "chapterIds": ["chapter_ohy_02"],
+        "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+        "locationIds": ["location_riverbank", "location_buendia_house"],
+        "motifIds": ["motif_family", "motif_solitude"],
+        "interpretation": "家族最早的恐惧不是死亡，而是血脉向内部回卷。孤独从这里获得遗传的形状，成为每一代都要误以为自己能够摆脱的暗线。"
+      },
+      {
+        "id": "path_solitude_repeated_names",
+        "title": "名字重复",
+        "eventIds": ["event_twins_born", "event_seventeen_aurelianos_marked", "event_seventeen_aurelianos_assassinated"],
+        "chapterIds": ["chapter_ohy_05", "chapter_ohy_09"],
+        "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo", "character_seventeen_aurelianos", "character_aureliano_buendia_colonel"],
+        "locationIds": ["location_buendia_house", "location_square", "location_cemetery"],
+        "motifIds": ["motif_family", "motif_time", "motif_war", "motif_solitude"],
+        "interpretation": "重复的名字让人物像彼此的回声。何塞·阿尔卡蒂奥第二、奥雷里亚诺第二和 17 个奥雷里亚诺共同说明，命运会借姓名制造相似的出口。"
+      },
+      {
+        "id": "path_solitude_forbidden_desire",
+        "title": "禁忌欲望",
+        "eventIds": ["event_aureliano_jose_desire", "event_pietro_crespi_suicide"],
+        "chapterIds": ["chapter_ohy_04", "chapter_ohy_08"],
+        "characterIds": ["character_aureliano_jose", "character_amaranta", "character_pietro_crespi"],
+        "locationIds": ["location_buendia_house", "location_cemetery"],
+        "motifIds": ["motif_family", "motif_solitude"],
+        "interpretation": "欲望在宅邸里不断撞上禁令。奥雷里亚诺·何塞的回返和皮埃特罗·克雷斯皮的绝望，让爱情显出一种无法真正抵达他人的孤独。"
+      },
+      {
+        "id": "path_solitude_war",
+        "title": "战争孤独",
+        "eventIds": ["event_war_begins", "event_war_spreads", "event_colonel_hardens", "event_war_ends", "event_gold_fish_cycle"],
+        "chapterIds": ["chapter_ohy_05", "chapter_ohy_08", "chapter_ohy_09"],
+        "characterIds": ["character_aureliano_buendia_colonel", "character_gerineldo_marquez"],
+        "locationIds": ["location_square", "location_buendia_house"],
+        "motifIds": ["motif_war", "motif_solitude", "motif_gold_fish", "motif_time"],
+        "interpretation": "奥雷里亚诺·布恩迪亚上校把孤独带进战争，又把战争带回小金鱼作坊。公共失败最后缩成私人手艺，循环替代了理想。"
+      },
+      {
+        "id": "path_solitude_failed_love",
+        "title": "爱情失败",
+        "eventIds": ["event_yellow_butterflies_love", "event_mauricio_shot", "event_meme_exile", "event_nigromanta_love"],
+        "chapterIds": ["chapter_ohy_12", "chapter_ohy_14", "chapter_ohy_18"],
+        "characterIds": ["character_meme", "character_mauricio_babilonia", "character_fernanda", "character_little_aureliano", "character_nigromanta"],
+        "locationIds": ["location_banana_company", "location_buendia_house", "location_station"],
+        "motifIds": ["motif_yellow_butterflies", "motif_solitude", "motif_family"],
+        "interpretation": "爱情曾短暂照亮人物，却总被家族、阶层或沉默打断。黄蝴蝶和尼格罗曼妲都证明，亲密可以出现，却很难成为救赎。"
+      },
+      {
+        "id": "path_solitude_final_bloodline",
+        "title": "终局血脉",
+        "eventIds": ["event_last_love", "event_final_child_birth", "event_final_child_devoured", "event_macondo_erased"],
+        "chapterIds": ["chapter_ohy_19", "chapter_ohy_20"],
+        "characterIds": ["character_little_aureliano", "character_amaranta_ursula", "character_final_aureliano", "character_melquiades"],
+        "locationIds": ["location_buendia_house", "location_melquiades_room"],
+        "motifIds": ["motif_family", "motif_solitude", "motif_ants", "motif_parchments", "motif_time"],
+        "interpretation": "最后的爱情以为自己能重新开始，却把最古老的恐惧带到现实中。第七代奥雷里亚诺（罗德里戈）和羊皮卷一起宣告，孤独的遗传已经走到尽头。"
+      }
+    ]
+  }
+]

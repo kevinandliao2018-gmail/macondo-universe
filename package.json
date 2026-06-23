@@ -1,0 +1,31 @@
+{
+  "name": "macondo-universe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build:timeline": "node scripts/build-timeline-beats.cjs",
+    "validate:content": "node scripts/validate-content.cjs",
+    "build:search": "node --import tsx scripts/build-search-index.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "build": "npm run validate:content && npm run build:search && next build"
+  },
+  "dependencies": {
+    "fuse.js": "^7.4.2",
+    "lucide-react": "^1.18.0",
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.9",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "event_foundation_of_macondo",
+    "title": "马孔多创建",
+    "storyOrder": 1,
+    "narrativeOrder": 1,
+    "chapterIds": [
+      "chapter_ohy_01"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time",
+      "motif_river_water",
+      "motif_earth_lime",
+      "motif_birds",
+      "motif_weeds_primeval_plants",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_riverbank"
+    ],
+    "summary": "何塞·阿尔卡蒂奥·布恩迪亚与乌尔苏拉带领迁徙者建立马孔多，家族和城镇的命运从同一处发芽。",
+    "tags": [
+      "创世",
+      "迁徙",
+      "马孔多"
+    ]
+  },
+  {
+    "id": "event_prudencio_duel",
+    "title": "普鲁邓希奥·阿基拉尔死于决斗",
+    "storyOrder": 2,
+    "narrativeOrder": 2,
+    "chapterIds": [
+      "chapter_ohy_01"
+    ],
+    "participantCharacterIds": [
+      "character_prudencio_aguilar",
+      "character_jose_arcadio_buendia",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_river_water"
+    ],
+    "locationIds": [
+      "location_riverbank"
+    ],
+    "summary": "普鲁邓希奥·阿基拉尔在决斗中被杀，罪责与亡魂迫使何塞·阿尔卡蒂奥·布恩迪亚和乌尔苏拉离开旧地。",
+    "tags": [
+      "决斗",
+      "原罪",
+      "迁徙"
+    ]
+  },
+  {
+    "id": "event_melquiades_first_wonders",
+    "title": "梅尔基亚德斯带来奇迹",
+    "storyOrder": 3,
+    "narrativeOrder": 3,
+    "chapterIds": [
+      "chapter_ohy_01"
+    ],
+    "participantCharacterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia"
+    ],
+    "motifIds": [
+      "motif_time",
+      "motif_memory",
+      "motif_light_darkness",
+      "motif_sun_heat"
+    ],
+    "locationIds": [
+      "location_riverbank",
+      "location_gypsy_camp"
+    ],
+    "summary": "梅尔基亚德斯和吉卜赛人带来磁铁、望远镜等发明，马孔多第一次被外部世界敲门。",
+    "tags": [
+      "吉卜赛人",
+      "发明",
+      "外部世界"
+    ]
+  },
+  {
+    "id": "event_ice_discovery",
+    "title": "见识冰块",
+    "storyOrder": 4,
+    "narrativeOrder": 4,
+    "chapterIds": [
+      "chapter_ohy_01"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_buendia",
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_ice",
+      "motif_time",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_riverbank",
+      "location_gypsy_camp"
+    ],
+    "summary": "何塞·阿尔卡蒂奥·布恩迪亚带孩子见识冰块，童年奇迹与未来回忆在同一瞬间相接。",
+    "tags": [
+      "冰块",
+      "童年",
+      "时间"
+    ]
+  },
+  {
+    "id": "event_original_sin_memory",
+    "title": "血脉恐惧被追溯",
+    "storyOrder": 5,
+    "narrativeOrder": 5,
+    "chapterIds": [
+      "chapter_ohy_02"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_pig_tail",
+      "motif_river_water"
+    ],
+    "locationIds": [
+      "location_riverbank",
+      "location_buendia_house"
+    ],
+    "summary": "家族对乱伦和畸形后代的恐惧被追溯，血脉禁忌成为马孔多命运的深层暗线。",
+    "tags": [
+      "血脉",
+      "禁忌",
+      "原罪"
+    ]
+  },
+  {
+    "id": "event_jose_arcadio_son_departure",
+    "title": "何塞·阿尔卡蒂奥随吉卜赛女人离开",
+    "storyOrder": 6,
+    "narrativeOrder": 6,
+    "chapterIds": [
+      "chapter_ohy_02"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_son",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_gypsy_camp"
+    ],
+    "summary": "何塞·阿尔卡蒂奥被肉体冲动和远方吸引，离开马孔多，也让家族第一次感到血脉流失。",
+    "tags": [
+      "离家",
+      "欲望",
+      "吉卜赛人"
+    ]
+  },
+  {
+    "id": "event_arcadio_birth_secret",
+    "title": "阿尔卡蒂奥身世被隐藏",
+    "storyOrder": 7,
+    "narrativeOrder": 7,
+    "chapterIds": [
+      "chapter_ohy_02"
+    ],
+    "participantCharacterIds": [
+      "character_arcadio",
+      "character_jose_arcadio_son",
+      "character_pilar_ternera"
+    ],
+    "motifIds": [
+      "motif_family"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "阿尔卡蒂奥作为秘密血脉进入家族结构，身份遮蔽为后来的权力孤独埋下伏笔。",
+    "tags": [
+      "身世",
+      "私生子",
+      "家族"
+    ]
+  },
+  {
+    "id": "event_rebeca_arrival",
+    "title": "丽贝卡抵达宅邸",
+    "storyOrder": 8,
+    "narrativeOrder": 8,
+    "chapterIds": [
+      "chapter_ohy_03"
+    ],
+    "participantCharacterIds": [
+      "character_rebeca",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_memory",
+      "motif_family",
+      "motif_earth_lime"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "丽贝卡带着骨殖、沉默和吃土癖来到布恩迪亚宅邸，外来记忆被纳入家族。",
+    "tags": [
+      "丽贝卡",
+      "外来者",
+      "宅邸"
+    ]
+  },
+  {
+    "id": "event_insomnia_plague",
+    "title": "失眠症席卷马孔多",
+    "storyOrder": 9,
+    "narrativeOrder": 9,
+    "chapterIds": [
+      "chapter_ohy_03"
+    ],
+    "participantCharacterIds": [
+      "character_rebeca",
+      "character_jose_arcadio_buendia",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_memory",
+      "motif_time",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "失眠症和遗忘症扩散，马孔多人用标牌给世界重新命名，抵抗记忆坍塌。",
+    "tags": [
+      "失眠症",
+      "遗忘",
+      "标牌"
+    ]
+  },
+  {
+    "id": "event_melquiades_returns",
+    "title": "梅尔基亚德斯返回并修复记忆",
+    "storyOrder": 10,
+    "narrativeOrder": 10,
+    "chapterIds": [
+      "chapter_ohy_03"
+    ],
+    "participantCharacterIds": [
+      "character_melquiades",
+      "character_jose_arcadio_buendia"
+    ],
+    "motifIds": [
+      "motif_memory",
+      "motif_time",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_melquiades_room"
+    ],
+    "summary": "梅尔基亚德斯带来治疗，让马孔多从遗忘边缘返回，也进一步确立他与时间的特殊关系。",
+    "tags": [
+      "梅尔基亚德斯",
+      "记忆",
+      "治疗"
+    ]
+  },
+  {
+    "id": "event_moscote_arrival",
+    "title": "堂阿波利纳尔·摩斯科特进入马孔多",
+    "storyOrder": 11,
+    "narrativeOrder": 11,
+    "chapterIds": [
+      "chapter_ohy_03"
+    ],
+    "participantCharacterIds": [
+      "character_apolinar_moscote",
+      "character_jose_arcadio_buendia"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_war"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "堂阿波利纳尔·摩斯科特以镇长身份带来外部行政秩序，马孔多开始被政治裂缝触及。",
+    "tags": [
+      "镇长",
+      "秩序",
+      "政治"
+    ]
+  },
+  {
+    "id": "event_remedios_marriage",
+    "title": "奥雷里亚诺·布恩迪亚上校与蕾梅黛丝·摩斯科特成婚",
+    "storyOrder": 12,
+    "narrativeOrder": 12,
+    "chapterIds": [
+      "chapter_ohy_04"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_remedios_moscote"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校与蕾梅黛丝·摩斯科特短暂成婚，沉默生命中出现难得的温柔间隙。",
+    "tags": [
+      "婚姻",
+      "爱情",
+      "蕾梅黛丝·摩斯科特"
+    ]
+  },
+  {
+    "id": "event_pietro_crespi_courtship",
+    "title": "皮埃特罗·克雷斯皮卷入宅邸爱情",
+    "storyOrder": 13,
+    "narrativeOrder": 13,
+    "chapterIds": [
+      "chapter_ohy_04"
+    ],
+    "participantCharacterIds": [
+      "character_pietro_crespi",
+      "character_rebeca",
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "皮埃特罗·克雷斯皮先与丽贝卡订婚，随后转向阿玛兰妲，使姐妹间的嫉妒和拒绝机制升级。",
+    "tags": [
+      "爱情",
+      "嫉妒",
+      "宅邸"
+    ]
+  },
+  {
+    "id": "event_remedios_death",
+    "title": "蕾梅黛丝·摩斯科特中毒早逝",
+    "storyOrder": 14,
+    "narrativeOrder": 14,
+    "chapterIds": [
+      "chapter_ohy_04"
+    ],
+    "participantCharacterIds": [
+      "character_remedios_moscote",
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_family"
+    ],
+    "locationIds": [
+      "location_cemetery"
+    ],
+    "summary": "蕾梅黛丝·摩斯科特中毒身亡，爱情的可能性在奥雷里亚诺·布恩迪亚上校身上迅速变冷。",
+    "tags": [
+      "死亡",
+      "毒死",
+      "爱情",
+      "孤独"
+    ]
+  },
+  {
+    "id": "event_aureliano_jose_desire",
+    "title": "奥雷里亚诺·何塞的禁忌欲望",
+    "storyOrder": 15,
+    "narrativeOrder": 15,
+    "chapterIds": [
+      "chapter_ohy_04",
+      "chapter_ohy_08"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_jose",
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·何塞被禁忌欲望困住，战争也不能真正切断这种回返家族内部的吸引。",
+    "tags": [
+      "禁忌",
+      "欲望",
+      "家族"
+    ]
+  },
+  {
+    "id": "event_pietro_crespi_suicide",
+    "title": "皮埃特罗·克雷斯皮自尽",
+    "storyOrder": 16,
+    "narrativeOrder": 16,
+    "chapterIds": [
+      "chapter_ohy_04"
+    ],
+    "participantCharacterIds": [
+      "character_pietro_crespi",
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_family"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_cemetery"
+    ],
+    "summary": "皮埃特罗·克雷斯皮被阿玛兰妲拒绝后割腕自尽，爱情的精致外壳在家族内部碎裂。",
+    "tags": [
+      "自尽",
+      "爱情悲剧",
+      "阿玛兰妲"
+    ]
+  },
+  {
+    "id": "event_war_begins",
+    "title": "战争开始",
+    "storyOrder": 17,
+    "narrativeOrder": 17,
+    "chapterIds": [
+      "chapter_ohy_05"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校离开作坊进入战争，私人沉默被历史暴力接管。",
+    "tags": [
+      "战争",
+      "自由党",
+      "历史"
+    ]
+  },
+  {
+    "id": "event_arcadio_rule",
+    "title": "阿尔卡蒂奥掌管马孔多",
+    "storyOrder": 18,
+    "narrativeOrder": 18,
+    "chapterIds": [
+      "chapter_ohy_05"
+    ],
+    "participantCharacterIds": [
+      "character_arcadio",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_family"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "阿尔卡蒂奥被委任管理马孔多，身份创伤和权力欲望迅速转化为暴力统治。",
+    "tags": [
+      "阿尔卡蒂奥",
+      "权力",
+      "马孔多"
+    ]
+  },
+  {
+    "id": "event_twins_born",
+    "title": "何塞·阿尔卡蒂奥第二与奥雷里亚诺第二出生",
+    "storyOrder": 19,
+    "narrativeOrder": 19,
+    "chapterIds": [
+      "chapter_ohy_05"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo",
+      "character_santa_sofia",
+      "character_arcadio"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "双胞胎出生，名字与性格的错位让家族重复变得更加复杂。",
+    "tags": [
+      "双胞胎",
+      "命名",
+      "家族"
+    ]
+  },
+  {
+    "id": "event_arcadio_excess",
+    "title": "阿尔卡蒂奥权力失控",
+    "storyOrder": 20,
+    "narrativeOrder": 20,
+    "chapterIds": [
+      "chapter_ohy_06"
+    ],
+    "participantCharacterIds": [
+      "character_arcadio",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "阿尔卡蒂奥在政令、征收和威吓中失控，革命语言被权力快感吞没。",
+    "tags": [
+      "暴政",
+      "权力",
+      "革命"
+    ]
+  },
+  {
+    "id": "event_arcadio_execution",
+    "title": "阿尔卡蒂奥被枪决",
+    "storyOrder": 21,
+    "narrativeOrder": 21,
+    "chapterIds": [
+      "chapter_ohy_06"
+    ],
+    "participantCharacterIds": [
+      "character_arcadio"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "阿尔卡蒂奥在行刑队前完成从恐惧到承担的转变，短暂权力以死亡收束。",
+    "tags": [
+      "行刑",
+      "死亡",
+      "阿尔卡蒂奥"
+    ]
+  },
+  {
+    "id": "event_remedios_beauty_matures",
+    "title": "美人儿蕾梅黛丝显露异质之美",
+    "storyOrder": 22,
+    "narrativeOrder": 22,
+    "chapterIds": [
+      "chapter_ohy_06",
+      "chapter_ohy_12"
+    ],
+    "participantCharacterIds": [
+      "character_remedios_the_beauty"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_sun_heat",
+      "motif_house_plants"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_banana_company"
+    ],
+    "summary": "美人儿蕾梅黛丝以近乎不属于世间的方式成长，她的美逐渐成为危险而纯净的力量。",
+    "tags": [
+      "美",
+      "纯真",
+      "异质"
+    ]
+  },
+  {
+    "id": "event_colonel_execution_escape",
+    "title": "奥雷里亚诺·布恩迪亚上校逃过行刑",
+    "storyOrder": 23,
+    "narrativeOrder": 23,
+    "chapterIds": [
+      "chapter_ohy_07"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校在行刑边缘幸存，命运的预叙转化为战争传奇。",
+    "tags": [
+      "行刑队",
+      "幸存",
+      "战争"
+    ]
+  },
+  {
+    "id": "event_jose_arcadio_son_return",
+    "title": "何塞·阿尔卡蒂奥返回马孔多",
+    "storyOrder": 24,
+    "narrativeOrder": 24,
+    "chapterIds": [
+      "chapter_ohy_07"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_son",
+      "character_rebeca"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_buendia_house"
+    ],
+    "summary": "何塞·阿尔卡蒂奥带着夸张肉身和远方痕迹返回马孔多，打乱家族既有婚恋秩序。",
+    "tags": [
+      "返回",
+      "肉体",
+      "丽贝卡"
+    ]
+  },
+  {
+    "id": "event_jose_arcadio_son_death",
+    "title": "何塞·阿尔卡蒂奥中枪死亡",
+    "storyOrder": 25,
+    "narrativeOrder": 25,
+    "chapterIds": [
+      "chapter_ohy_07"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_son",
+      "character_rebeca"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_yellow_flowers"
+    ],
+    "locationIds": [
+      "location_cemetery"
+    ],
+    "summary": "何塞·阿尔卡蒂奥不明原因中枪死亡，血迹穿越空间回到宅邸，死亡成为家族内部的红色路线。",
+    "tags": [
+      "死亡",
+      "血路",
+      "家族"
+    ]
+  },
+  {
+    "id": "event_war_spreads",
+    "title": "战争扩散为长期循环",
+    "storyOrder": 26,
+    "narrativeOrder": 26,
+    "chapterIds": [
+      "chapter_ohy_08"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_aureliano_jose"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "战争不再是单一行动，而成为不断复制的历史节奏。",
+    "tags": [
+      "战争",
+      "循环",
+      "历史"
+    ]
+  },
+  {
+    "id": "event_aureliano_jose_death",
+    "title": "奥雷里亚诺·何塞被击毙",
+    "storyOrder": 27,
+    "narrativeOrder": 27,
+    "chapterIds": [
+      "chapter_ohy_08"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_jose",
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude",
+      "motif_sun_heat"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "奥雷里亚诺·何塞死于枪声，禁忌欲望与战争命运在同一处终止。",
+    "tags": [
+      "死亡",
+      "禁忌",
+      "枪声"
+    ]
+  },
+  {
+    "id": "event_colonel_hardens",
+    "title": "奥雷里亚诺·布恩迪亚上校变得寒冷",
+    "storyOrder": 28,
+    "narrativeOrder": 28,
+    "chapterIds": [
+      "chapter_ohy_08"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校在权力中心变得越来越寒冷，亲情也难以穿过隔离圈。",
+    "tags": [
+      "权力",
+      "寒冷",
+      "孤独"
+    ]
+  },
+  {
+    "id": "event_gerineldo_courtship",
+    "title": "赫里内勒多·马尔克斯追求阿玛兰妲",
+    "storyOrder": 29,
+    "narrativeOrder": 29,
+    "chapterIds": [
+      "chapter_ohy_08"
+    ],
+    "participantCharacterIds": [
+      "character_gerineldo_marquez",
+      "character_amaranta",
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_square"
+    ],
+    "summary": "赫里内勒多·马尔克斯在战争友谊之外追求阿玛兰妲，却同样被她的拒绝挡在亲密关系之外。",
+    "tags": [
+      "追求",
+      "拒绝",
+      "战争"
+    ]
+  },
+  {
+    "id": "event_macondo_rain_telegram",
+    "title": "马孔多在下雨的电报",
+    "storyOrder": 30,
+    "narrativeOrder": 30,
+    "chapterIds": [
+      "chapter_ohy_09"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_solitude",
+      "motif_war"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "电报中的雨不只是天气，而是无法抵达对方的孤独呼救。",
+    "tags": [
+      "雨",
+      "电报",
+      "孤独"
+    ]
+  },
+  {
+    "id": "event_war_ends",
+    "title": "战争以虚无收束",
+    "storyOrder": 31,
+    "narrativeOrder": 31,
+    "chapterIds": [
+      "chapter_ohy_09"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square"
+    ],
+    "summary": "战争的理想和口号耗尽，奥雷里亚诺·布恩迪亚上校从历史舞台退回内心废墟。",
+    "tags": [
+      "战争结束",
+      "虚无",
+      "退场"
+    ]
+  },
+  {
+    "id": "event_gold_fish_cycle",
+    "title": "小金鱼循环",
+    "storyOrder": 32,
+    "narrativeOrder": 32,
+    "chapterIds": [
+      "chapter_ohy_09"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_gold_fish",
+      "motif_time",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校反复制作又熔化小金鱼，以手艺维持孤独的闭环。",
+    "tags": [
+      "小金鱼",
+      "循环",
+      "手艺"
+    ]
+  },
+  {
+    "id": "event_aureliano_segundo_fortune",
+    "title": "奥雷里亚诺第二获得繁盛财富",
+    "storyOrder": 33,
+    "narrativeOrder": 33,
+    "chapterIds": [
+      "chapter_ohy_10"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_segundo",
+      "character_petra_cotes"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_banana_company",
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺第二在牲畜繁殖与宴饮中制造生命过剩，马孔多进入狂欢式富足。",
+    "tags": [
+      "财富",
+      "繁殖",
+      "狂欢"
+    ]
+  },
+  {
+    "id": "event_petra_cotes_bond",
+    "title": "佩特拉·科特斯与奥雷里亚诺第二结成生命同盟",
+    "storyOrder": 34,
+    "narrativeOrder": 34,
+    "chapterIds": [
+      "chapter_ohy_10"
+    ],
+    "participantCharacterIds": [
+      "character_petra_cotes",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_banana_company"
+    ],
+    "summary": "佩特拉·科特斯和奥雷里亚诺第二的关系把欲望、繁殖和温情编织在一起。",
+    "tags": [
+      "佩特拉·科特斯",
+      "欲望",
+      "生命力"
+    ]
+  },
+  {
+    "id": "event_fernanda_arrival",
+    "title": "费尔南达进入布恩迪亚宅邸",
+    "storyOrder": 35,
+    "narrativeOrder": 35,
+    "chapterIds": [
+      "chapter_ohy_10"
+    ],
+    "participantCharacterIds": [
+      "character_fernanda",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "费尔南达带着外来礼法进入宅邸，使马孔多的狂欢被另一套秩序压住。",
+    "tags": [
+      "费尔南达",
+      "礼法",
+      "外来秩序"
+    ]
+  },
+  {
+    "id": "event_train_arrives",
+    "title": "火车抵达马孔多",
+    "storyOrder": 36,
+    "narrativeOrder": 36,
+    "chapterIds": [
+      "chapter_ohy_11"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_station"
+    ],
+    "summary": "火车把马孔多接入现代世界，也让外部资本和历史暴力进入镇上。",
+    "tags": [
+      "火车",
+      "现代性",
+      "马孔多"
+    ]
+  },
+  {
+    "id": "event_seventeen_aurelianos_marked",
+    "title": "17 个奥雷里亚诺被圣灰十字标记",
+    "storyOrder": 37,
+    "narrativeOrder": 37,
+    "chapterIds": [
+      "chapter_ohy_09"
+    ],
+    "participantCharacterIds": [
+      "character_seventeen_aurelianos",
+      "character_aureliano_buendia_colonel",
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_family"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·布恩迪亚上校的十七个私生子额上留下圣灰十字，祝福标记后来变成死亡坐标。",
+    "tags": [
+      "圣灰十字",
+      "私生子",
+      "标记"
+    ]
+  },
+  {
+    "id": "event_banana_company_arrives",
+    "title": "香蕉公司进入马孔多",
+    "storyOrder": 38,
+    "narrativeOrder": 38,
+    "chapterIds": [
+      "chapter_ohy_11"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_memory",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_banana_company"
+    ],
+    "summary": "香蕉公司带来机器、工人和外来秩序，马孔多的繁华开始带有殖民阴影。",
+    "tags": [
+      "香蕉公司",
+      "资本",
+      "殖民"
+    ]
+  },
+  {
+    "id": "event_seventeen_aurelianos_assassinated",
+    "title": "17 个奥雷里亚诺遭到暗杀",
+    "storyOrder": 39,
+    "narrativeOrder": 39,
+    "chapterIds": [
+      "chapter_ohy_09"
+    ],
+    "participantCharacterIds": [
+      "character_seventeen_aurelianos",
+      "character_aureliano_buendia_colonel"
+    ],
+    "motifIds": [
+      "motif_war",
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_square",
+      "location_cemetery"
+    ],
+    "summary": "暗杀者凭圣灰十字追猎奥雷里亚诺·布恩迪亚上校的十七个儿子，战争血脉以集体死亡显影。",
+    "tags": [
+      "暗杀",
+      "战争",
+      "死亡"
+    ]
+  },
+  {
+    "id": "event_foreign_order_expands",
+    "title": "外来秩序扩张",
+    "storyOrder": 40,
+    "narrativeOrder": 40,
+    "chapterIds": [
+      "chapter_ohy_11"
+    ],
+    "participantCharacterIds": [
+      "character_fernanda",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_banana_company",
+      "motif_birds",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_banana_company"
+    ],
+    "summary": "外来制度、礼法和商业节奏改变马孔多，旧日的封闭被现代性撕开。",
+    "tags": [
+      "外来秩序",
+      "现代化",
+      "礼法"
+    ]
+  },
+  {
+    "id": "event_remedios_ascension",
+    "title": "美人儿蕾梅黛丝升天",
+    "storyOrder": 41,
+    "narrativeOrder": 41,
+    "chapterIds": [
+      "chapter_ohy_12"
+    ],
+    "participantCharacterIds": [
+      "character_remedios_the_beauty"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_time",
+      "motif_wind_hurricane",
+      "motif_house_plants",
+      "motif_decay_animals",
+      "motif_sun_heat"
+    ],
+    "locationIds": [
+      "location_banana_company"
+    ],
+    "summary": "美人儿蕾梅黛丝在日常劳动中升天，魔幻事件被叙述得像天气一样自然。",
+    "tags": [
+      "升天",
+      "魔幻现实主义",
+      "美"
+    ]
+  },
+  {
+    "id": "event_yellow_butterflies_love",
+    "title": "黄蝴蝶围绕梅梅与马乌里肖·巴比伦",
+    "storyOrder": 42,
+    "narrativeOrder": 42,
+    "chapterIds": [
+      "chapter_ohy_12"
+    ],
+    "participantCharacterIds": [
+      "character_meme",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_yellow_butterflies",
+      "motif_solitude",
+      "motif_wind_hurricane"
+    ],
+    "locationIds": [
+      "location_banana_company",
+      "location_buendia_house"
+    ],
+    "summary": "黄蝴蝶使梅梅与马乌里肖·巴比伦的爱情变得可见，也让命运的气味无法隐藏。",
+    "tags": [
+      "黄蝴蝶",
+      "爱情",
+      "马乌里肖·巴比伦"
+    ]
+  },
+  {
+    "id": "event_mauricio_shot",
+    "title": "马乌里肖·巴比伦被枪击",
+    "storyOrder": 43,
+    "narrativeOrder": 43,
+    "chapterIds": [
+      "chapter_ohy_12",
+      "chapter_ohy_14"
+    ],
+    "participantCharacterIds": [
+      "character_mauricio_babilonia",
+      "character_meme",
+      "character_fernanda"
+    ],
+    "motifIds": [
+      "motif_yellow_butterflies",
+      "motif_banana_company",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_banana_company"
+    ],
+    "summary": "马乌里肖·巴比伦在爱情相会中被枪击，黄蝴蝶的轨迹被暴力截断。",
+    "tags": [
+      "枪击",
+      "爱情",
+      "黄蝴蝶"
+    ]
+  },
+  {
+    "id": "event_ursula_blindness",
+    "title": "乌尔苏拉失明",
+    "storyOrder": 44,
+    "narrativeOrder": 44,
+    "chapterIds": [
+      "chapter_ohy_13"
+    ],
+    "participantCharacterIds": [
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_memory",
+      "motif_family",
+      "motif_house_plants"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "乌尔苏拉失明后反而更加洞察宅邸秩序，用记忆继续维持家族。",
+    "tags": [
+      "乌尔苏拉",
+      "失明",
+      "洞察"
+    ]
+  },
+  {
+    "id": "event_chestnut_binding",
+    "title": "何塞·阿尔卡蒂奥·布恩迪亚被绑缚于栗树",
+    "storyOrder": 45,
+    "narrativeOrder": 45,
+    "chapterIds": [
+      "chapter_ohy_13"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_buendia",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_chestnut_tree",
+      "motif_family",
+      "motif_time",
+      "motif_yellow_flowers"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_chestnut_tree"
+    ],
+    "summary": "何塞·阿尔卡蒂奥·布恩迪亚被栗树固定在家族中心，疯狂、父权和见证合为一体。",
+    "tags": [
+      "栗树",
+      "疯癫",
+      "父权"
+    ]
+  },
+  {
+    "id": "event_amaranta_ursula_childhood",
+    "title": "阿玛兰妲·乌尔苏拉的童年被寄予复兴可能",
+    "storyOrder": 46,
+    "narrativeOrder": 46,
+    "chapterIds": [
+      "chapter_ohy_13"
+    ],
+    "participantCharacterIds": [
+      "character_amaranta_ursula",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "阿玛兰妲·乌尔苏拉的童年在宅邸中显出活力，像家族可能重启的微弱征兆。",
+    "tags": [
+      "童年",
+      "复兴",
+      "家族"
+    ]
+  },
+  {
+    "id": "event_amaranta_shroud",
+    "title": "阿玛兰妲缝制寿衣",
+    "storyOrder": 47,
+    "narrativeOrder": 47,
+    "chapterIds": [
+      "chapter_ohy_14"
+    ],
+    "participantCharacterIds": [
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "阿玛兰妲用缝制寿衣丈量自己的死亡，将拒绝和悔恨转化为日常仪式。",
+    "tags": [
+      "寿衣",
+      "死亡",
+      "仪式"
+    ]
+  },
+  {
+    "id": "event_amaranta_death",
+    "title": "阿玛兰妲迎接死亡",
+    "storyOrder": 48,
+    "narrativeOrder": 48,
+    "chapterIds": [
+      "chapter_ohy_14"
+    ],
+    "participantCharacterIds": [
+      "character_amaranta"
+    ],
+    "motifIds": [
+      "motif_solitude",
+      "motif_family",
+      "motif_wind_hurricane"
+    ],
+    "locationIds": [
+      "location_cemetery"
+    ],
+    "summary": "阿玛兰妲以清醒和固执迎接死亡，拒绝的孤独完成最后一次自我确认。",
+    "tags": [
+      "阿玛兰妲",
+      "死亡",
+      "拒绝"
+    ]
+  },
+  {
+    "id": "event_meme_exile",
+    "title": "梅梅被送往修道院",
+    "storyOrder": 49,
+    "narrativeOrder": 49,
+    "chapterIds": [
+      "chapter_ohy_14"
+    ],
+    "participantCharacterIds": [
+      "character_meme",
+      "character_fernanda",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_yellow_butterflies",
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_banana_company"
+    ],
+    "summary": "梅梅的爱情被费尔南达切断，她被送往修道院，黄蝴蝶留下沉默余震。",
+    "tags": [
+      "梅梅",
+      "修道院",
+      "放逐"
+    ]
+  },
+  {
+    "id": "event_banana_strike",
+    "title": "香蕉工人罢工",
+    "storyOrder": 50,
+    "narrativeOrder": 50,
+    "chapterIds": [
+      "chapter_ohy_15"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_memory",
+      "motif_war",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_square",
+      "location_station",
+      "location_banana_company"
+    ],
+    "summary": "香蕉工人罢工把马孔多的现代化幻象撕开，劳动者与公司秩序正面冲突。",
+    "tags": [
+      "罢工",
+      "香蕉公司",
+      "劳动"
+    ]
+  },
+  {
+    "id": "event_massacre_witness",
+    "title": "何塞·阿尔卡蒂奥第二见证大屠杀",
+    "storyOrder": 51,
+    "narrativeOrder": 51,
+    "chapterIds": [
+      "chapter_ohy_15"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo"
+    ],
+    "motifIds": [
+      "motif_banana_company",
+      "motif_memory",
+      "motif_rain",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_banana_company",
+      "location_cemetery"
+    ],
+    "summary": "何塞·阿尔卡蒂奥第二成为大屠杀的幸存见证者，却发现整座城镇被迫遗忘。",
+    "tags": [
+      "大屠杀",
+      "见证",
+      "遗忘"
+    ]
+  },
+  {
+    "id": "event_little_aureliano_hidden",
+    "title": "奥雷里亚诺·巴比伦被隐藏在宅邸",
+    "storyOrder": 52,
+    "narrativeOrder": 52,
+    "chapterIds": [
+      "chapter_ohy_15"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_fernanda",
+      "character_meme",
+      "character_mauricio_babilonia"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·巴比伦作为被遮蔽的孩子进入宅邸，成为家族最后破译者的开端。",
+    "tags": [
+      "奥雷里亚诺·巴比伦",
+      "隐藏",
+      "血脉"
+    ]
+  },
+  {
+    "id": "event_rain_begins",
+    "title": "大雨开始",
+    "storyOrder": 53,
+    "narrativeOrder": 53,
+    "chapterIds": [
+      "chapter_ohy_16"
+    ],
+    "participantCharacterIds": [
+      "character_ursula",
+      "character_aureliano_segundo",
+      "character_jose_arcadio_segundo"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_banana_company",
+      "motif_memory",
+      "motif_river_water",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_banana_company"
+    ],
+    "summary": "大雨在香蕉公司创伤之后开始，马孔多进入漫长、潮湿、停滞的遗忘期。",
+    "tags": [
+      "大雨",
+      "香蕉公司",
+      "遗忘"
+    ]
+  },
+  {
+    "id": "event_rain_corrosion",
+    "title": "雨水腐蚀马孔多",
+    "storyOrder": 54,
+    "narrativeOrder": 54,
+    "chapterIds": [
+      "chapter_ohy_16"
+    ],
+    "participantCharacterIds": [
+      "character_aureliano_segundo",
+      "character_petra_cotes",
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_memory",
+      "motif_river_water",
+      "motif_earth_lime",
+      "motif_decay_animals",
+      "motif_banana_leaves_stumps"
+    ],
+    "locationIds": [
+      "location_banana_company"
+    ],
+    "summary": "雨水侵蚀房屋、身体、财富和时间，马孔多的物质世界开始松散。",
+    "tags": [
+      "腐朽",
+      "雨",
+      "宅邸"
+    ]
+  },
+  {
+    "id": "event_rain_stops",
+    "title": "大雨停止",
+    "storyOrder": 55,
+    "narrativeOrder": 55,
+    "chapterIds": [
+      "chapter_ohy_16"
+    ],
+    "participantCharacterIds": [
+      "character_ursula",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_rain",
+      "motif_time",
+      "motif_river_water"
+    ],
+    "locationIds": [
+      "location_banana_company",
+      "location_station"
+    ],
+    "summary": "四年十一个月零两天之后大雨停止，但马孔多并未恢复，只留下被冲刷后的衰败。",
+    "tags": [
+      "雨停",
+      "时间",
+      "衰败"
+    ]
+  },
+  {
+    "id": "event_ursula_death",
+    "title": "乌尔苏拉离世",
+    "storyOrder": 56,
+    "narrativeOrder": 56,
+    "chapterIds": [
+      "chapter_ohy_17"
+    ],
+    "participantCharacterIds": [
+      "character_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_memory",
+      "motif_time",
+      "motif_yellow_flowers",
+      "motif_house_plants"
+    ],
+    "locationIds": [
+      "location_cemetery"
+    ],
+    "summary": "乌尔苏拉离世，家族最强的守护秩序终于撤去。",
+    "tags": [
+      "乌尔苏拉",
+      "死亡",
+      "守护"
+    ]
+  },
+  {
+    "id": "event_twins_die",
+    "title": "何塞·阿尔卡蒂奥第二与奥雷里亚诺第二同日死亡",
+    "storyOrder": 57,
+    "narrativeOrder": 57,
+    "chapterIds": [
+      "chapter_ohy_17"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_segundo",
+      "character_aureliano_segundo"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_cemetery"
+    ],
+    "summary": "何塞·阿尔卡蒂奥第二与奥雷里亚诺第二同日死亡，双胞胎的错位命运合拢。",
+    "tags": [
+      "双胞胎",
+      "死亡",
+      "命运"
+    ]
+  },
+  {
+    "id": "event_house_declines",
+    "title": "布恩迪亚宅邸进入衰败",
+    "storyOrder": 58,
+    "narrativeOrder": 58,
+    "chapterIds": [
+      "chapter_ohy_17"
+    ],
+    "participantCharacterIds": [
+      "character_santa_sofia",
+      "character_fernanda",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_memory",
+      "motif_dust_rubble",
+      "motif_yellow_flowers",
+      "motif_house_plants",
+      "motif_decay_animals",
+      "motif_sun_heat",
+      "motif_weeds_primeval_plants",
+      "motif_birds"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "宅邸失去维护，杂草、灰尘和沉默逐渐占据家族空间。",
+    "tags": [
+      "宅邸",
+      "衰败",
+      "废墟"
+    ]
+  },
+  {
+    "id": "event_santa_sofia_leaves",
+    "title": "桑塔索菲亚·德拉·彼达离开",
+    "storyOrder": 59,
+    "narrativeOrder": 59,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_santa_sofia",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_memory",
+      "motif_dust_rubble",
+      "motif_weeds_primeval_plants",
+      "motif_decay_animals"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "桑塔索菲亚·德拉·彼达离开宅邸，无声劳动者从家族历史中退场。",
+    "tags": [
+      "离开",
+      "宅邸",
+      "沉默"
+    ]
+  },
+  {
+    "id": "event_fernanda_death",
+    "title": "费尔南达死亡",
+    "storyOrder": 60,
+    "narrativeOrder": 60,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_fernanda",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "费尔南达在幻觉和孤独中死去，外来礼法对宅邸的控制也随之结束。",
+    "tags": [
+      "费尔南达",
+      "死亡",
+      "礼法"
+    ]
+  },
+  {
+    "id": "event_parchments_guarded",
+    "title": "羊皮卷被守护与研究",
+    "storyOrder": 61,
+    "narrativeOrder": 61,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_melquiades",
+      "character_jose_arcadio_segundo"
+    ],
+    "motifIds": [
+      "motif_parchments",
+      "motif_memory",
+      "motif_time",
+      "motif_dust_rubble",
+      "motif_decay_animals",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_melquiades_room"
+    ],
+    "summary": "梅尔基亚德斯的羊皮卷在房间中等待最后破译，历史被压缩为难懂文本。",
+    "tags": [
+      "羊皮卷",
+      "破译",
+      "梅尔基亚德斯"
+    ]
+  },
+  {
+    "id": "event_jose_arcadio_seminarian_return",
+    "title": "何塞·阿尔卡蒂奥（神学院学生）回到宅邸",
+    "storyOrder": 62,
+    "narrativeOrder": 62,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_seminarian",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_memory",
+      "motif_dust_rubble"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_buendia_house"
+    ],
+    "summary": "何塞·阿尔卡蒂奥（神学院学生）从罗马归来，发现宅邸只剩金币、废墟和奥雷里亚诺·巴比伦的孤独。",
+    "tags": [
+      "归来",
+      "金币",
+      "宅邸"
+    ]
+  },
+  {
+    "id": "event_nigromanta_love",
+    "title": "奥雷里亚诺·巴比伦与尼格罗曼妲相伴",
+    "storyOrder": 63,
+    "narrativeOrder": 63,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_nigromanta"
+    ],
+    "motifIds": [
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·巴比伦在书本、欲望和羊皮卷之间徘徊时，与尼格罗曼妲保持短暂而孤独的情人关系。",
+    "tags": [
+      "情人",
+      "欲望",
+      "孤独"
+    ]
+  },
+  {
+    "id": "event_amaranta_ursula_returns",
+    "title": "阿玛兰妲·乌尔苏拉归来",
+    "storyOrder": 64,
+    "narrativeOrder": 64,
+    "chapterIds": [
+      "chapter_ohy_19"
+    ],
+    "participantCharacterIds": [
+      "character_amaranta_ursula",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_house_plants",
+      "motif_weeds_primeval_plants"
+    ],
+    "locationIds": [
+      "location_station",
+      "location_buendia_house"
+    ],
+    "summary": "阿玛兰妲·乌尔苏拉从欧洲归来，试图让马孔多和宅邸重新呼吸。",
+    "tags": [
+      "归来",
+      "复兴",
+      "欧洲"
+    ]
+  },
+  {
+    "id": "event_jose_arcadio_seminarian_death",
+    "title": "何塞·阿尔卡蒂奥（神学院学生）死于浴室",
+    "storyOrder": 65,
+    "narrativeOrder": 65,
+    "chapterIds": [
+      "chapter_ohy_18"
+    ],
+    "participantCharacterIds": [
+      "character_jose_arcadio_seminarian",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_cemetery"
+    ],
+    "summary": "何塞·阿尔卡蒂奥（神学院学生）被返回的孩子们淹溺于浴室，空洞继承以暴力死亡收束。",
+    "tags": [
+      "死亡",
+      "浴室",
+      "金币"
+    ]
+  },
+  {
+    "id": "event_last_love",
+    "title": "奥雷里亚诺·巴比伦与阿玛兰妲·乌尔苏拉相爱",
+    "storyOrder": 66,
+    "narrativeOrder": 66,
+    "chapterIds": [
+      "chapter_ohy_19"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_amaranta_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "奥雷里亚诺·巴比伦与阿玛兰妲·乌尔苏拉进入最后的爱情，家族禁忌和孤独在激情中重合。",
+    "tags": [
+      "爱情",
+      "禁忌",
+      "终局"
+    ]
+  },
+  {
+    "id": "event_gaston_leaves",
+    "title": "加斯通离开马孔多",
+    "storyOrder": 67,
+    "narrativeOrder": 67,
+    "chapterIds": [
+      "chapter_ohy_19"
+    ],
+    "participantCharacterIds": [
+      "character_gaston",
+      "character_amaranta_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_time"
+    ],
+    "locationIds": [
+      "location_station"
+    ],
+    "summary": "加斯通离开马孔多，欧洲现代性的旁观位置退出，阿玛兰妲·乌尔苏拉被留在家族终局内部。",
+    "tags": [
+      "离开",
+      "欧洲",
+      "现代性"
+    ]
+  },
+  {
+    "id": "event_amaranta_ursula_death",
+    "title": "阿玛兰妲·乌尔苏拉产后死亡",
+    "storyOrder": 68,
+    "narrativeOrder": 68,
+    "chapterIds": [
+      "chapter_ohy_19"
+    ],
+    "participantCharacterIds": [
+      "character_amaranta_ursula",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "阿玛兰妲·乌尔苏拉在生育后死去，复兴马孔多的愿望被血脉终局吞没。",
+    "tags": [
+      "死亡",
+      "生育",
+      "终局"
+    ]
+  },
+  {
+    "id": "event_final_child_birth",
+    "title": "最后的孩子出生",
+    "storyOrder": 69,
+    "narrativeOrder": 69,
+    "chapterIds": [
+      "chapter_ohy_20"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_amaranta_ursula"
+    ],
+    "motifIds": [
+      "motif_family",
+      "motif_solitude",
+      "motif_pig_tail"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "最后的孩子出生，家族最古老的恐惧成为现实，血脉循环抵达终点。",
+    "tags": [
+      "出生",
+      "猪尾巴",
+      "终局"
+    ]
+  },
+  {
+    "id": "event_parchments_decoded",
+    "title": "奥雷里亚诺·巴比伦破译羊皮卷",
+    "storyOrder": 70,
+    "narrativeOrder": 70,
+    "chapterIds": [
+      "chapter_ohy_20"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_parchments",
+      "motif_time",
+      "motif_memory",
+      "motif_light_darkness"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_melquiades_room"
+    ],
+    "summary": "奥雷里亚诺·巴比伦终于读懂羊皮卷，发现自己正在阅读的正是家族全部命运。",
+    "tags": [
+      "破译",
+      "羊皮卷",
+      "命运"
+    ]
+  },
+  {
+    "id": "event_final_child_devoured",
+    "title": "第七代奥雷里亚诺（罗德里戈）被蚂蚁吞噬",
+    "storyOrder": 71,
+    "narrativeOrder": 71,
+    "chapterIds": [
+      "chapter_ohy_20"
+    ],
+    "participantCharacterIds": [
+      "character_final_aureliano",
+      "character_little_aureliano"
+    ],
+    "motifIds": [
+      "motif_ants",
+      "motif_family",
+      "motif_solitude",
+      "motif_pig_tail",
+      "motif_earth_lime",
+      "motif_decay_animals"
+    ],
+    "locationIds": [
+      "location_buendia_house"
+    ],
+    "summary": "第七代奥雷里亚诺（罗德里戈）带着猪尾巴出生后被蚂蚁吞噬，家族最古老的恐惧完成兑现。",
+    "tags": [
+      "蚂蚁",
+      "猪尾巴",
+      "终结"
+    ]
+  },
+  {
+    "id": "event_macondo_erased",
+    "title": "马孔多被抹去",
+    "storyOrder": 72,
+    "narrativeOrder": 72,
+    "chapterIds": [
+      "chapter_ohy_20"
+    ],
+    "participantCharacterIds": [
+      "character_little_aureliano",
+      "character_melquiades"
+    ],
+    "motifIds": [
+      "motif_parchments",
+      "motif_time",
+      "motif_solitude",
+      "motif_family",
+      "motif_wind_hurricane",
+      "motif_dust_rubble",
+      "motif_decay_animals",
+      "motif_weeds_primeval_plants",
+      "motif_light_darkness",
+      "motif_river_water",
+      "motif_sun_heat",
+      "motif_birds",
+      "motif_yellow_flowers"
+    ],
+    "locationIds": [
+      "location_buendia_house",
+      "location_melquiades_room"
+    ],
+    "summary": "羊皮卷被读完时，马孔多和布恩迪亚家族的历史一同被飓风抹去。",
+    "tags": [
+      "马孔多",
+      "飓风",
+      "终章"
+    ]
+  }
+]

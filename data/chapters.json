@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "chapter_ohy_01",
+    "workId": "work_ohy",
+    "order": 1,
+    "title": "第一章：冰块、创世与万物命名",
+    "slug": "chapter-01",
+    "summary": "马孔多在世界新生的气息中建立，吉卜赛人的发明打开科学奇迹，冰块成为童年、时间和启蒙的核心入口。",
+    "characterIds": ["character_jose_arcadio_buendia", "character_ursula", "character_melquiades", "character_jose_arcadio_son", "character_aureliano_buendia_colonel"],
+    "eventIds": ["event_foundation_of_macondo", "event_melquiades_first_wonders", "event_ice_discovery"],
+    "motifIds": ["motif_ice", "motif_time", "motif_family", "motif_river_water", "motif_earth_lime", "motif_light_darkness", "motif_sun_heat", "motif_birds", "motif_weeds_primeval_plants"],
+    "themeTags": ["创世", "冰块", "科学奇迹", "时间"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第一章全面深度分析_01.md", "《百年孤独》章节分析-第一章全面深度分析_02.md"],
+      "thesis": "第一章把马孔多写成一场创世实验：科学奇迹、命名冲动和冰块记忆同时启动，家族的时间循环在最初的光亮中已经埋下终局的阴影。",
+      "entryPoint": "先抓住冰块这个入口，再回看吉卜赛人的发明、何塞·阿尔卡蒂奥·布恩迪亚的探索欲和乌尔苏拉·伊瓜兰的留守秩序。",
+      "focusPoints": [
+        {
+          "title": "创世不是纯真，而是循环的开端",
+          "summary": "马孔多看似从河岸和宅邸中新生，却在创建时就带着迁徙、隔绝和命名焦虑；第一章的清澈感其实已经包含后来衰败的种子。",
+          "eventIds": ["event_foundation_of_macondo"],
+          "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_buendia_house", "location_riverbank"]
+        },
+        {
+          "title": "科学奇迹像神话一样降临",
+          "summary": "梅尔基亚德斯带来的磁铁、望远镜和炼金术，让现代知识以魔术的形式进入村庄；何塞·阿尔卡蒂奥·布恩迪亚把知识误读成征服世界的钥匙。",
+          "eventIds": ["event_melquiades_first_wonders"],
+          "characterIds": ["character_melquiades", "character_jose_arcadio_buendia"],
+          "motifIds": ["motif_ice", "motif_time"],
+          "locationIds": ["location_gypsy_camp", "location_riverbank"]
+        },
+        {
+          "title": "冰块凝住童年，也预告终局",
+          "summary": "见识冰块的一幕把童年惊异、科学启蒙和多年以后将被回忆的死亡时刻扣在一起，形成全书最早的时间折叠。",
+          "eventIds": ["event_ice_discovery"],
+          "characterIds": ["character_aureliano_buendia_colonel", "character_jose_arcadio_buendia"],
+          "motifIds": ["motif_ice", "motif_time"],
+          "locationIds": ["location_gypsy_camp"]
+        }
+      ],
+      "spotlight": {
+        "title": "由冰块开始，到冰块结束",
+        "summary": "本章最值得反复回读的是冰块如何成为结构装置：它不是单纯的奇观，而是把童年、知识、死亡和回忆压缩到同一瞬间的透明核心。"
+      },
+      "questions": [
+        "何塞·阿尔卡蒂奥·布恩迪亚的探索欲，为什么既像创世者的勇气，也像家族失控的起点？",
+        "冰块这一意象如何让第一章同时拥有童年感和末日感？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_02",
+    "workId": "work_ohy",
+    "order": 2,
+    "title": "第二章：原罪、迁徙与血脉恐惧",
+    "slug": "chapter-02",
+    "summary": "家族的迁徙起因、乱伦焦虑和猪尾巴恐惧浮出水面，马孔多的地理孤独与血脉循环开始合拢。",
+    "characterIds": ["character_jose_arcadio_buendia", "character_ursula", "character_jose_arcadio_son", "character_amaranta", "character_pilar_ternera"],
+    "eventIds": ["event_original_sin_memory", "event_jose_arcadio_son_departure", "event_arcadio_birth_secret"],
+    "motifIds": ["motif_family", "motif_solitude", "motif_time", "motif_pig_tail", "motif_river_water"],
+    "themeTags": ["原罪", "迁徙", "血脉", "禁忌"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第二章全面深度分析.md"],
+      "thesis": "第二章把第一章的创世光亮翻到阴影面：血脉恐惧、欲望出走和身世隐瞒，使马孔多的地理孤独变成家族命运的内在机制。",
+      "entryPoint": "从猪尾巴恐惧和迁徙记忆读起，再看何塞·阿尔卡蒂奥的离开如何把原罪从祖辈传到子辈。",
+      "focusPoints": [
+        {
+          "title": "血脉恐惧为家族写下隐形法律",
+          "summary": "乱伦焦虑并不只是背景传说，它规定了乌尔苏拉·伊瓜兰的婚姻恐惧，也让后代每一次欲望都带着预言般的重量。",
+          "eventIds": ["event_original_sin_memory"],
+          "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house", "location_riverbank"]
+        },
+        {
+          "title": "出走把肉体冲动带出宅邸",
+          "summary": "何塞·阿尔卡蒂奥随吉卜赛女人离开，像是家族中外向、肉身和漂泊力量的第一次爆发，也让布恩迪亚宅邸失去稳定边界。",
+          "eventIds": ["event_jose_arcadio_son_departure"],
+          "characterIds": ["character_jose_arcadio_son", "character_pilar_ternera"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_gypsy_camp"]
+        },
+        {
+          "title": "被隐藏的孩子让秘密成为血缘",
+          "summary": "阿尔卡蒂奥的身世被遮蔽，使家族关系从一开始就不是透明谱系，而是由沉默、替代和错认编织出的迷宫。",
+          "eventIds": ["event_arcadio_birth_secret"],
+          "characterIds": ["character_arcadio", "character_pilar_ternera", "character_ursula"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "原罪、欲望与流亡",
+        "summary": "第二章的关键不是解释家族来历，而是让读者看见来历如何变成诅咒：迁徙没有切断过去，反而把过去封存在马孔多。"
+      },
+      "questions": [
+        "乌尔苏拉·伊瓜兰的恐惧为什么比任何外部制度都更能约束家族？",
+        "何塞·阿尔卡蒂奥的离开是在逃离马孔多，还是在把马孔多的命运带向外部世界？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_03",
+    "workId": "work_ohy",
+    "order": 3,
+    "title": "第三章：失眠症、标牌与记忆防线",
+    "slug": "chapter-03",
+    "summary": "丽贝卡抵达后，失眠症席卷马孔多，标牌成为抵抗遗忘的脆弱技术，梅尔基亚德斯再次介入记忆秩序。",
+    "characterIds": ["character_rebeca", "character_ursula", "character_melquiades", "character_jose_arcadio_buendia"],
+    "eventIds": ["event_rebeca_arrival", "event_insomnia_plague", "event_melquiades_returns"],
+    "motifIds": ["motif_memory", "motif_time", "motif_family", "motif_earth_lime", "motif_light_darkness"],
+    "themeTags": ["失眠", "遗忘", "标牌", "记忆"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第三章全面深度分析.md"],
+      "thesis": "第三章把遗忘写成文明的危机：丽贝卡带来的失眠症让语言、物名和身份纷纷松动，马孔多第一次意识到记忆需要被人工守护。",
+      "entryPoint": "从丽贝卡的抵达和失眠症扩散读起，注意标牌如何把语言变成抵抗遗忘的工具。",
+      "focusPoints": [
+        {
+          "title": "外来孩子携带被压抑的过去",
+          "summary": "丽贝卡并非单纯的新成员，她带着孤儿身份、食土癖和陌生记忆进入宅邸，使布恩迪亚家族的自足秩序出现裂缝。",
+          "eventIds": ["event_rebeca_arrival"],
+          "characterIds": ["character_rebeca", "character_ursula"],
+          "motifIds": ["motif_memory", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "失眠症让语言承担文明重量",
+          "summary": "马孔多人给事物贴上名称和用途，说明遗忘已经威胁到存在本身；标牌越清楚，文明越显得脆弱。",
+          "eventIds": ["event_insomnia_plague"],
+          "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+          "motifIds": ["motif_memory", "motif_time"],
+          "locationIds": ["location_buendia_house", "location_square"]
+        },
+        {
+          "title": "梅尔基亚德斯把记忆重新接回时间",
+          "summary": "梅尔基亚德斯的回归不只是治愈疾病，他像时间之外的校准者，让马孔多暂时免于被遗忘吞没。",
+          "eventIds": ["event_melquiades_returns"],
+          "characterIds": ["character_melquiades", "character_jose_arcadio_buendia"],
+          "motifIds": ["motif_memory", "motif_time"],
+          "locationIds": ["location_melquiades_room"]
+        }
+      ],
+      "spotlight": {
+        "title": "遗忘的深渊",
+        "summary": "本章最锋利的地方在于：遗忘不是忘记某件事，而是忘记事物为什么存在、自己为什么存在。语言在这里成了最后的堤坝。"
+      },
+      "questions": [
+        "标牌抵抗遗忘的方式，是拯救了马孔多，还是暴露了马孔多文明的薄弱？",
+        "丽贝卡为什么适合作为失眠症和记忆危机的入口人物？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_04",
+    "workId": "work_ohy",
+    "order": 4,
+    "title": "第四章：自动钢琴、爱情机关与死亡",
+    "slug": "chapter-04",
+    "summary": "爱情、嫉妒和婚姻在布恩迪亚宅邸交错，蕾梅黛丝·摩斯科特的死亡令奥雷里亚诺·布恩迪亚上校的孤独首次塌陷。",
+    "characterIds": ["character_aureliano_buendia_colonel", "character_remedios_moscote", "character_amaranta", "character_rebeca", "character_arcadio", "character_aureliano_jose"],
+    "eventIds": ["event_remedios_marriage", "event_remedios_death", "event_aureliano_jose_desire"],
+    "motifIds": ["motif_family", "motif_solitude", "motif_time"],
+    "themeTags": ["爱情", "死亡", "嫉妒", "婚姻"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第四章全面深度分析.md"],
+      "thesis": "第四章把爱情写成一台精密又失控的机关：婚姻、嫉妒、死亡和禁忌欲望同时运转，马孔多从无死亡的幻觉中跌入凡人的时间。",
+      "entryPoint": "先看蕾梅黛丝·摩斯科特之死如何改变宅邸气压，再回看自动钢琴式的爱情秩序如何逐步失灵。",
+      "focusPoints": [
+        {
+          "title": "婚姻把纯真带入政治和死亡",
+          "summary": "奥雷里亚诺·布恩迪亚上校与蕾梅黛丝·摩斯科特成婚，看似是家族联姻，实则把爱情、权力和未来战争的阴影系在一起。",
+          "eventIds": ["event_remedios_marriage"],
+          "characterIds": ["character_aureliano_buendia_colonel", "character_remedios_moscote"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "早逝让马孔多进入凡人秩序",
+          "summary": "蕾梅黛丝·摩斯科特的死亡使宅邸第一次真正感到不可挽回，奥雷里亚诺·布恩迪亚上校的孤独由此获得阴冷的核心。",
+          "eventIds": ["event_remedios_death"],
+          "characterIds": ["character_remedios_moscote", "character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_solitude", "motif_time"],
+          "locationIds": ["location_cemetery", "location_buendia_house"]
+        },
+        {
+          "title": "禁忌欲望从家庭内部滋生",
+          "summary": "奥雷里亚诺·何塞的欲望不是偶发插曲，而是第二章血脉恐惧的回声；家族越想维持秩序，欲望越在亲密处变形。",
+          "eventIds": ["event_aureliano_jose_desire"],
+          "characterIds": ["character_aureliano_jose", "character_amaranta"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "爱情、死亡与疯狂的交响",
+        "summary": "第四章适合当作宅邸情感结构的剖面图：每一段爱情都带着无法完成的部分，死亡则让这些未完成永久化。"
+      },
+      "questions": [
+        "蕾梅黛丝·摩斯科特的早逝为什么能改变奥雷里亚诺·布恩迪亚上校的命运质地？",
+        "本章的爱情为什么总是以误解、替代或禁忌的形式出现？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_05",
+    "workId": "work_ohy",
+    "order": 5,
+    "title": "第五章：战争诞生与马孔多政治化",
+    "slug": "chapter-05",
+    "summary": "马孔多被卷入政治暴力，奥雷里亚诺·布恩迪亚上校离开金银器作坊，战争成为家族命运的新机器。",
+    "characterIds": ["character_aureliano_buendia_colonel", "character_arcadio", "character_santa_sofia", "character_jose_arcadio_segundo", "character_aureliano_segundo"],
+    "eventIds": ["event_war_begins", "event_arcadio_rule", "event_twins_born"],
+    "motifIds": ["motif_war", "motif_family", "motif_solitude"],
+    "themeTags": ["战争", "政治", "双胞胎", "权力"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第五章深度分析.md"],
+      "thesis": "第五章是私人激情转入政治暴力的门槛：马孔多从家族内部纠葛被推向党派战争，权力开始以革命名义侵入日常。",
+      "entryPoint": "从奥雷里亚诺·布恩迪亚上校离开作坊读起，再看阿尔卡蒂奥如何把革命口号变成地方暴政。",
+      "focusPoints": [
+        {
+          "title": "战争把马孔多从村庄变成阵地",
+          "summary": "战争开始后，广场不再只是公共空间，而成了政治动员和暴力执行的中心；马孔多的纯真时代被迫结束。",
+          "eventIds": ["event_war_begins"],
+          "characterIds": ["character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_war", "motif_solitude"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "阿尔卡蒂奥预演权力异化",
+          "summary": "阿尔卡蒂奥掌管马孔多时，革命理想迅速滑向任性统治；他既是被隐藏的孩子，也是被权力放大的孤儿。",
+          "eventIds": ["event_arcadio_rule"],
+          "characterIds": ["character_arcadio", "character_ursula"],
+          "motifIds": ["motif_war", "motif_family"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "双胞胎让名字循环具体化",
+          "summary": "何塞·阿尔卡蒂奥第二与奥雷里亚诺第二出生，使家族命名规律进入新的轮回，也预告日后身份错位和命运分裂。",
+          "eventIds": ["event_twins_born"],
+          "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo", "character_santa_sofia"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "从私人激情到政治暴力",
+        "summary": "第五章的转折在于战争并非外部背景，而是开始改写人物性格、空间秩序和家族命名逻辑的巨大机器。"
+      },
+      "questions": [
+        "奥雷里亚诺·布恩迪亚上校为什么会从内向手艺人转向战争人物？",
+        "阿尔卡蒂奥的统治如何提前暴露革命理想的脆弱？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_06",
+    "workId": "work_ohy",
+    "order": 6,
+    "title": "第六章：阿尔卡蒂奥的暴政与行刑",
+    "slug": "chapter-06",
+    "summary": "阿尔卡蒂奥以轻率权力统治马孔多，革命口号迅速异化为暴力，最终在行刑队前完成短促的一生。",
+    "characterIds": ["character_arcadio", "character_ursula", "character_aureliano_buendia_colonel", "character_santa_sofia", "character_remedios_the_beauty"],
+    "eventIds": ["event_arcadio_excess", "event_arcadio_execution", "event_remedios_beauty_matures"],
+    "motifIds": ["motif_war", "motif_family", "motif_solitude"],
+    "themeTags": ["暴政", "行刑", "权力异化", "家族"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第六章深度分析.md"],
+      "thesis": "第六章把权力异化推到残酷的可见处：阿尔卡蒂奥的统治从被遗弃者的补偿心理出发，最终在行刑队前显出战争机器吞噬子代的方式。",
+      "entryPoint": "沿阿尔卡蒂奥从掌权到被枪决的弧线阅读，重点看乌尔苏拉·伊瓜兰如何成为最后的伦理阻挡。",
+      "focusPoints": [
+        {
+          "title": "暴政来自身份空洞",
+          "summary": "阿尔卡蒂奥权力失控，不只是性格粗暴，更是被隐瞒身世和突然权力共同塑造出的悲剧；他用统治填补自身来历的空缺。",
+          "eventIds": ["event_arcadio_excess"],
+          "characterIds": ["character_arcadio", "character_ursula"],
+          "motifIds": ["motif_war", "motif_family"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "行刑让预言变成身体经验",
+          "summary": "阿尔卡蒂奥被枪决时，战争不再是远处口号，而是落在家族血肉上的判决；广场成为权力和死亡共同书写的场地。",
+          "eventIds": ["event_arcadio_execution"],
+          "characterIds": ["character_arcadio", "character_santa_sofia"],
+          "motifIds": ["motif_war", "motif_solitude"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "美的异质性已经开始显影",
+          "summary": "美人儿蕾梅黛丝的成熟在暴力章节中出现，形成奇异对照：一边是权力的污浊，一边是无法被社会解释的美。",
+          "eventIds": ["event_remedios_beauty_matures"],
+          "characterIds": ["character_remedios_the_beauty"],
+          "motifIds": ["motif_solitude", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "权力的异化与死亡的尊严",
+        "summary": "第六章的悲剧不只在阿尔卡蒂奥失败，而在于革命语言一旦脱离伦理约束，立刻会复制它声称要反抗的暴力。"
+      },
+      "questions": [
+        "阿尔卡蒂奥的暴政和他被隐藏的身世之间有什么关系？",
+        "乌尔苏拉·伊瓜兰在本章为何比任何军事力量都更像秩序的守门人？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_07",
+    "workId": "work_ohy",
+    "order": 7,
+    "title": "第七章：行刑队、血路与花雨",
+    "slug": "chapter-07",
+    "summary": "战争和死亡反复逼近，奥雷里亚诺·布恩迪亚上校获得幸存，也开始从英雄姿态滑向权力的寒冷。",
+    "characterIds": ["character_aureliano_buendia_colonel", "character_jose_arcadio_son", "character_ursula", "character_rebeca"],
+    "eventIds": ["event_colonel_execution_escape", "event_jose_arcadio_son_return", "event_jose_arcadio_son_death"],
+    "motifIds": ["motif_war", "motif_solitude", "motif_family", "motif_yellow_flowers"],
+    "themeTags": ["行刑", "幸存", "血路", "死亡"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第七章深度分析.md"],
+      "thesis": "第七章用行刑幸存、归来和神秘死亡组成三重奏：战争英雄的传奇在此被推高，同时也开始显露英雄叙事内部的冷意和空洞。",
+      "entryPoint": "先看奥雷里亚诺·布恩迪亚上校如何逃过行刑，再看何塞·阿尔卡蒂奥归来与死亡如何把家族创伤带回宅邸。",
+      "focusPoints": [
+        {
+          "title": "行刑队前的幸存制造传奇",
+          "summary": "奥雷里亚诺·布恩迪亚上校逃过行刑，使第一章的预叙完成回响；但幸存并未带来救赎，只让他更深地进入战争身份。",
+          "eventIds": ["event_colonel_execution_escape"],
+          "characterIds": ["character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_war", "motif_time"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "归来的人带着无法安置的身体",
+          "summary": "何塞·阿尔卡蒂奥返回马孔多，像把第二章的出走回声带回家族；他的身体性和放逐经验与宅邸秩序格格不入。",
+          "eventIds": ["event_jose_arcadio_son_return"],
+          "characterIds": ["character_jose_arcadio_son", "character_rebeca"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_station", "location_buendia_house"]
+        },
+        {
+          "title": "血路让死亡获得魔幻现实质地",
+          "summary": "何塞·阿尔卡蒂奥的死亡把谜团、血迹和家族空间连成一体，死亡不再只发生在人物身上，也在宅邸中流动。",
+          "eventIds": ["event_jose_arcadio_son_death"],
+          "characterIds": ["character_jose_arcadio_son", "character_ursula", "character_rebeca"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_cemetery", "location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "预言的实现与死亡的三重奏",
+        "summary": "第七章把预言、谜案和花雨式的死亡美学缠在一起，使战争时代既有史诗光芒，也有不可解释的黑洞。"
+      },
+      "questions": [
+        "奥雷里亚诺·布恩迪亚上校的幸存为什么没有让他更接近生命，反而更接近战争？",
+        "何塞·阿尔卡蒂奥的死亡为什么需要以谜团形式保留下来？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_08",
+    "workId": "work_ohy",
+    "order": 8,
+    "title": "第八章：禁忌、空床与战争扩散",
+    "slug": "chapter-08",
+    "summary": "奥雷里亚诺·何塞的禁忌欲望与战争扩散彼此缠绕，爱情的不可能性再次把家族推向孤独。",
+    "characterIds": ["character_aureliano_jose", "character_amaranta", "character_aureliano_buendia_colonel", "character_pilar_ternera"],
+    "eventIds": ["event_war_spreads", "event_aureliano_jose_death", "event_colonel_hardens"],
+    "motifIds": ["motif_war", "motif_solitude", "motif_family", "motif_sun_heat"],
+    "themeTags": ["禁忌", "战争", "欲望", "死亡"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第八章深度分析.md"],
+      "thesis": "第八章让战争扩散和禁忌欲望彼此映照：公共暴力吞噬马孔多，私人欲望也在家族内部寻找不可能的出口。",
+      "entryPoint": "把奥雷里亚诺·何塞的欲望和战争扩散并排阅读，会更容易看见本章的双线悲剧结构。",
+      "focusPoints": [
+        {
+          "title": "战争从事件变成长期气候",
+          "summary": "战争扩散为循环之后，人物不再只是参与战争，而是被战争改变感知方式；暴力成为马孔多新的背景声。",
+          "eventIds": ["event_war_spreads"],
+          "characterIds": ["character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_war", "motif_time"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "禁忌之爱走向空床和枪声",
+          "summary": "奥雷里亚诺·何塞对阿玛兰妲的欲望无法进入现实，只能在拒绝和战争之间耗尽，最后被暴力截断。",
+          "eventIds": ["event_aureliano_jose_death", "event_aureliano_jose_desire"],
+          "characterIds": ["character_aureliano_jose", "character_amaranta"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_square", "location_buendia_house"]
+        },
+        {
+          "title": "上校的寒冷是战争留下的内伤",
+          "summary": "奥雷里亚诺·布恩迪亚上校逐渐变得寒冷，说明战争最深的代价不是失败，而是把人从情感共同体中剥离出来。",
+          "eventIds": ["event_colonel_hardens"],
+          "characterIds": ["character_aureliano_buendia_colonel", "character_pilar_ternera"],
+          "motifIds": ["motif_war", "motif_solitude"],
+          "locationIds": ["location_square"]
+        }
+      ],
+      "spotlight": {
+        "title": "权力的腐化与禁忌之爱的悲剧",
+        "summary": "第八章不是单纯延续战争线，而是显示战争如何改造爱、身体和判断力；禁忌欲望因此带上时代的伤口。"
+      },
+      "questions": [
+        "奥雷里亚诺·何塞的死亡是私人悲剧，还是战争秩序的必然结果？",
+        "奥雷里亚诺·布恩迪亚上校的寒冷与他的革命理想之间发生了什么断裂？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_09",
+    "workId": "work_ohy",
+    "order": 9,
+    "title": "第九章：电码、细雨与小金鱼",
+    "slug": "chapter-09",
+    "summary": "战争虚无达到峰值，电码中的雨成为无法被理解的孤独，小金鱼则成为奥雷里亚诺·布恩迪亚上校循环劳作的象征。",
+    "characterIds": ["character_aureliano_buendia_colonel", "character_amaranta"],
+    "eventIds": ["event_macondo_rain_telegram", "event_war_ends", "event_gold_fish_cycle"],
+    "motifIds": ["motif_rain", "motif_gold_fish", "motif_war", "motif_solitude"],
+    "themeTags": ["雨", "电码", "战争虚无", "小金鱼"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第九章深度分析-孤独的永恒象征与虚无的觉醒.md", "《百年孤独》章节分析-第九章-马孔多在下雨.md"],
+      "thesis": "第九章把战争理想推入虚无：电码中的雨无法被理解，小金鱼的循环劳作则把奥雷里亚诺·布恩迪亚上校的孤独物化为重复动作。",
+      "entryPoint": "从“马孔多在下雨”的电报读起，再看战争结束和小金鱼循环如何共同说明沟通失败与意义耗尽。",
+      "focusPoints": [
+        {
+          "title": "雨成为无法抵达他人的语言",
+          "summary": "电报里的雨不是天气闲话，而是孤独者试图传递的精神状态；它被误读，正说明战争已经耗尽共同理解的可能。",
+          "eventIds": ["event_macondo_rain_telegram"],
+          "characterIds": ["character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_rain", "motif_solitude"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "战争结束后只剩虚无回声",
+          "summary": "战争以虚无收束时，胜负已经失去意义；奥雷里亚诺·布恩迪亚上校不是回到生活，而是回到无法解释自己的沉默。",
+          "eventIds": ["event_war_ends"],
+          "characterIds": ["character_aureliano_buendia_colonel", "character_amaranta"],
+          "motifIds": ["motif_war", "motif_solitude"],
+          "locationIds": ["location_square"]
+        },
+        {
+          "title": "小金鱼把循环变成手艺",
+          "summary": "反复制作和熔化小金鱼，是对战争虚无的回应，也是自我封闭的仪式；劳动不再通向产物，只维持孤独本身。",
+          "eventIds": ["event_gold_fish_cycle"],
+          "characterIds": ["character_aureliano_buendia_colonel"],
+          "motifIds": ["motif_gold_fish", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "马孔多在下雨",
+        "summary": "这句电报的力量在于它轻得像天气，重得像灵魂告急；读懂它，就能读懂奥雷里亚诺·布恩迪亚上校战争后的孤独。"
+      },
+      "questions": [
+        "为什么“马孔多在下雨”会成为比战争口号更有穿透力的表达？",
+        "小金鱼循环到底是在抵抗虚无，还是在承认虚无？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_10",
+    "workId": "work_ohy",
+    "order": 10,
+    "title": "第十章：生命过剩与秩序阴影",
+    "slug": "chapter-10",
+    "summary": "奥雷里亚诺第二和佩特拉·科特斯带来牲畜繁盛的狂欢，费尔南达则携外来礼法进入宅邸。",
+    "characterIds": ["character_aureliano_segundo", "character_petra_cotes", "character_fernanda", "character_jose_arcadio_segundo"],
+    "eventIds": ["event_aureliano_segundo_fortune", "event_petra_cotes_bond", "event_fernanda_arrival"],
+    "motifIds": ["motif_family", "motif_solitude", "motif_time"],
+    "themeTags": ["繁殖", "狂欢", "礼法", "外来秩序"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十章深度分析-身份的错位与生命的狂欢.md", "《百年孤独》章节分析-第十章-让一让母牛们.md"],
+      "thesis": "第十章在战争虚无之后爆发出过剩生命力：双胞胎的身份错位、牲畜繁盛和费尔南达的到来，使马孔多进入狂欢与规训并存的转折期。",
+      "entryPoint": "先抓住奥雷里亚诺第二与佩特拉·科特斯的繁殖奇迹，再看费尔南达如何把外来礼法带进宅邸。",
+      "focusPoints": [
+        {
+          "title": "繁盛财富像对虚无的反击",
+          "summary": "奥雷里亚诺第二的财富和宴饮不是简单享乐，而是战争之后生命力的夸张补偿；越丰盛，越能看见底层的不安。",
+          "eventIds": ["event_aureliano_segundo_fortune"],
+          "characterIds": ["character_aureliano_segundo"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_banana_company", "location_buendia_house"]
+        },
+        {
+          "title": "佩特拉·科特斯让生命力有了身体",
+          "summary": "佩特拉·科特斯与奥雷里亚诺第二的关系，把欲望、繁殖和经济奇迹连在一起，形成对衰败命运的短暂反抗。",
+          "eventIds": ["event_petra_cotes_bond"],
+          "characterIds": ["character_petra_cotes", "character_aureliano_segundo"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_banana_company"]
+        },
+        {
+          "title": "费尔南达带来秩序的阴影",
+          "summary": "费尔南达进入布恩迪亚宅邸，意味着外部礼法、贵族幻觉和死亡气息开始规训家族日常；狂欢从此有了对手。",
+          "eventIds": ["event_fernanda_arrival"],
+          "characterIds": ["character_fernanda", "character_aureliano_segundo"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "让一让，母牛们，生命短暂啊",
+        "summary": "第十章的口号式狂欢不是轻松喜剧，而是人在虚无之后用身体、食物和繁殖撑开的短暂胜利。"
+      },
+      "questions": [
+        "奥雷里亚诺第二的狂欢为什么既像生命胜利，也像衰败前的过度补偿？",
+        "费尔南达的到来为什么会改变布恩迪亚宅邸的空气？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_11",
+    "workId": "work_ohy",
+    "order": 11,
+    "title": "第十一章：黄色火车与现代性入侵",
+    "slug": "chapter-11",
+    "summary": "火车、外来公司和新秩序进入马孔多，现代性带来繁华，也带来殖民创伤的前奏。",
+    "characterIds": ["character_aureliano_segundo", "character_fernanda", "character_jose_arcadio_segundo", "character_meme"],
+    "eventIds": ["event_train_arrives", "event_banana_company_arrives", "event_foreign_order_expands"],
+    "motifIds": ["motif_banana_company", "motif_family", "motif_time", "motif_banana_leaves_stumps", "motif_birds"],
+    "themeTags": ["火车", "现代性", "外来公司", "殖民"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十一章深度解读：外来秩序的入侵与命运的预言.md", "《百年孤独》章节分析-第十一章-黄色火车.md"],
+      "thesis": "第十一章让黄色火车成为现代性入口：铁路、香蕉公司和费尔南达式秩序同时扩张，马孔多从家族史被推入殖民经济和外来规则。",
+      "entryPoint": "从火车抵达读起，再看香蕉公司如何把空间、时间和欲望全部纳入新的外部秩序。",
+      "focusPoints": [
+        {
+          "title": "黄色火车打开不可逆的通道",
+          "summary": "火车抵达马孔多，看似带来连接和繁荣，实则让村庄失去封闭神话；现代性第一次以明亮而危险的形式进入。",
+          "eventIds": ["event_train_arrives"],
+          "characterIds": ["character_aureliano_segundo", "character_fernanda"],
+          "motifIds": ["motif_banana_company", "motif_time"],
+          "locationIds": ["location_station"]
+        },
+        {
+          "title": "香蕉公司重写空间秩序",
+          "summary": "香蕉公司进入后，马孔多不再按家族和广场组织，而被车站、种植区和外来经济重新切分，繁华中已经有灾难预兆。",
+          "eventIds": ["event_banana_company_arrives"],
+          "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo"],
+          "motifIds": ["motif_banana_company", "motif_time"],
+          "locationIds": ["location_station", "location_banana_company"]
+        },
+        {
+          "title": "外来秩序不只来自公司",
+          "summary": "费尔南达带来的礼法和香蕉公司带来的经济纪律互相呼应；一个改造宅邸，一个改造城镇，共同压低马孔多原有生命力。",
+          "eventIds": ["event_foreign_order_expands", "event_fernanda_arrival"],
+          "characterIds": ["character_fernanda", "character_aureliano_segundo"],
+          "motifIds": ["motif_banana_company", "motif_family"],
+          "locationIds": ["location_banana_company", "location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "黄色火车",
+        "summary": "黄色火车的无辜外观正是它的危险之处：它带来甜蜜、速度和商品，也把马孔多送上通往殖民创伤的轨道。"
+      },
+      "questions": [
+        "火车为什么既是何塞·阿尔卡蒂奥·布恩迪亚梦想的延续，也是马孔多灾难的前奏？",
+        "费尔南达和香蕉公司分别用什么方式改造马孔多？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_12",
+    "workId": "work_ohy",
+    "order": 12,
+    "title": "第十二章：香蕉公司与美的升天",
+    "slug": "chapter-12",
+    "summary": "香蕉公司改造马孔多的经济和空间，美人儿蕾梅黛丝的升天与黄蝴蝶的爱情将魔幻与现实并置。",
+    "characterIds": ["character_remedios_the_beauty", "character_meme", "character_mauricio_babilonia", "character_jose_arcadio_segundo"],
+    "eventIds": ["event_remedios_ascension", "event_yellow_butterflies_love", "event_mauricio_shot"],
+    "motifIds": ["motif_yellow_butterflies", "motif_banana_company", "motif_solitude", "motif_wind_hurricane", "motif_house_plants", "motif_decay_animals", "motif_sun_heat"],
+    "themeTags": ["升天", "黄蝴蝶", "香蕉公司", "爱情"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十二章深度解读：升天与屠杀的对位.md", "《百年孤独》章节分析-第十二章-美人儿蕾梅黛丝升空.md"],
+      "thesis": "第十二章把魔幻升天和殖民暴力放在同一视野里：美人儿蕾梅黛丝脱离人间，梅梅与马乌里肖·巴比伦的爱情却被现实制度击中。",
+      "entryPoint": "并排阅读升天、黄蝴蝶和枪击，会看见纯真、欲望与外来权力的三重对位。",
+      "focusPoints": [
+        {
+          "title": "升天让纯真拒绝社会解释",
+          "summary": "美人儿蕾梅黛丝的升天并不是浪漫逃逸，而是她无法被欲望、道德和殖民秩序捕获的最终形式。",
+          "eventIds": ["event_remedios_ascension"],
+          "characterIds": ["character_remedios_the_beauty"],
+          "motifIds": ["motif_solitude", "motif_banana_company"],
+          "locationIds": ["location_banana_company"]
+        },
+        {
+          "title": "黄蝴蝶让爱情有了可见踪迹",
+          "summary": "梅梅与马乌里肖·巴比伦的爱情借黄蝴蝶显形，魔幻意象不是装饰，而是欲望无法被家族礼法完全压住的证据。",
+          "eventIds": ["event_yellow_butterflies_love"],
+          "characterIds": ["character_meme", "character_mauricio_babilonia"],
+          "motifIds": ["motif_yellow_butterflies", "motif_solitude"],
+          "locationIds": ["location_banana_company", "location_buendia_house"]
+        },
+        {
+          "title": "枪击把爱情交给殖民现实",
+          "summary": "马乌里肖·巴比伦被枪击，使黄蝴蝶的诗意突然落入监控、阶级和暴力；私人爱情被外部秩序强行定罪。",
+          "eventIds": ["event_mauricio_shot"],
+          "characterIds": ["character_mauricio_babilonia", "character_meme", "character_fernanda"],
+          "motifIds": ["motif_yellow_butterflies", "motif_banana_company"],
+          "locationIds": ["location_banana_company"]
+        }
+      ],
+      "spotlight": {
+        "title": "美人儿蕾梅黛丝升空",
+        "summary": "升天场景的奇迹感必须和香蕉公司背景一起读：纯真越轻，现实越沉，二者的落差构成本章的痛感。"
+      },
+      "questions": [
+        "美人儿蕾梅黛丝的升天是逃离，还是对现实秩序的拒绝？",
+        "黄蝴蝶为什么能同时象征爱情、暴露和危险？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_13",
+    "workId": "work_ohy",
+    "order": 13,
+    "title": "第十三章：乌尔苏拉失明与栗树死亡",
+    "slug": "chapter-13",
+    "summary": "乌尔苏拉的失明转化为洞察，何塞·阿尔卡蒂奥·布恩迪亚在栗树的见证下走向终点。",
+    "characterIds": ["character_ursula", "character_jose_arcadio_buendia", "character_amaranta_ursula", "character_fernanda"],
+    "eventIds": ["event_ursula_blindness", "event_chestnut_binding", "event_amaranta_ursula_childhood"],
+    "motifIds": ["motif_chestnut_tree", "motif_memory", "motif_family", "motif_yellow_flowers", "motif_house_plants"],
+    "themeTags": ["失明", "栗树", "守护", "衰老"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十三章深度解读：失明中的洞察与平静的死亡.md", "《百年孤独》章节分析-第十三章-上校之死.md"],
+      "thesis": "第十三章把失明、衰老和栗树死亡写成洞察的悖论：肉眼退场之后，乌尔苏拉·伊瓜兰反而更清楚地看见家族重复的机制。",
+      "entryPoint": "从乌尔苏拉·伊瓜兰失明读起，再看栗树如何成为初代父权、时间囚禁和家族中心的共同标记。",
+      "focusPoints": [
+        {
+          "title": "失明反而打开家族洞察",
+          "summary": "乌尔苏拉·伊瓜兰失明后，并未失去判断力；她通过记忆、触感和秩序感继续辨认家族循环，成为全书最坚韧的见证者。",
+          "eventIds": ["event_ursula_blindness"],
+          "characterIds": ["character_ursula"],
+          "motifIds": ["motif_memory", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "栗树把父权固定成风景",
+          "summary": "何塞·阿尔卡蒂奥·布恩迪亚被绑缚于栗树，使创始者从行动者变为被观看的遗迹；栗树成了家族时间的结节。",
+          "eventIds": ["event_chestnut_binding"],
+          "characterIds": ["character_jose_arcadio_buendia", "character_ursula"],
+          "motifIds": ["motif_chestnut_tree", "motif_time"],
+          "locationIds": ["location_chestnut_tree", "location_buendia_house"]
+        },
+        {
+          "title": "复兴希望被寄存在下一代名字里",
+          "summary": "阿玛兰妲·乌尔苏拉的童年带来短暂明亮的可能，但她的名字本身已经携带重复，未来复兴从一开始就不纯粹。",
+          "eventIds": ["event_amaranta_ursula_childhood"],
+          "characterIds": ["character_amaranta_ursula", "character_ursula", "character_fernanda"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "在黑暗中看见光明",
+        "summary": "第十三章的失明并不削弱乌尔苏拉·伊瓜兰，反而让她从视觉世界退入更深的家族记忆，成为循环的清醒旁观者。"
+      },
+      "questions": [
+        "乌尔苏拉·伊瓜兰为什么在失明之后反而更像家族的真正读者？",
+        "栗树如何把何塞·阿尔卡蒂奥·布恩迪亚从创始者变成历史遗迹？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_14",
+    "workId": "work_ohy",
+    "order": 14,
+    "title": "第十四章：寿衣、黄蝴蝶与被枪击的爱情",
+    "slug": "chapter-14",
+    "summary": "阿玛兰妲的寿衣与梅梅的爱情互相映照，拒绝的孤独和被暴力打断的爱情同时发生。",
+    "characterIds": ["character_amaranta", "character_meme", "character_mauricio_babilonia", "character_fernanda"],
+    "eventIds": ["event_amaranta_shroud", "event_amaranta_death", "event_meme_exile"],
+    "motifIds": ["motif_yellow_butterflies", "motif_solitude", "motif_family", "motif_wind_hurricane"],
+    "themeTags": ["寿衣", "黄蝴蝶", "爱情", "放逐"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十四章深度解读：死亡的从容与爱情的疯狂.md", "《百年孤独》章节分析-第十四章-阿玛兰妲之死与黄蝴蝶.md"],
+      "thesis": "第十四章用阿玛兰妲的寿衣和梅梅的黄蝴蝶构成双线对位：一个把死亡变成自我控制，一个把爱情推向无法控制的疯狂。",
+      "entryPoint": "把阿玛兰妲缝制寿衣和梅梅被放逐并排阅读，能看见主动孤独与被迫孤独的差别。",
+      "focusPoints": [
+        {
+          "title": "寿衣是阿玛兰妲的自我审判",
+          "summary": "阿玛兰妲缝制寿衣，不只是准备死亡，也是把一生拒绝、悔恨和控制欲织成可触摸的形式。",
+          "eventIds": ["event_amaranta_shroud"],
+          "characterIds": ["character_amaranta"],
+          "motifIds": ["motif_solitude", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "死亡成为她最后能掌控的事件",
+          "summary": "阿玛兰妲迎接死亡时，孤独从惩罚变成秩序；她无法完成爱情，却能以近乎仪式的方式完成自身。",
+          "eventIds": ["event_amaranta_death"],
+          "characterIds": ["character_amaranta"],
+          "motifIds": ["motif_solitude", "motif_time"],
+          "locationIds": ["location_cemetery"]
+        },
+        {
+          "title": "黄蝴蝶爱情被家族礼法放逐",
+          "summary": "梅梅被送往修道院，使爱情的魔幻踪迹被制度切断；黄蝴蝶没有消失，只是变成记忆里的疼痛。",
+          "eventIds": ["event_meme_exile", "event_mauricio_shot"],
+          "characterIds": ["character_meme", "character_mauricio_babilonia", "character_fernanda"],
+          "motifIds": ["motif_yellow_butterflies", "motif_solitude"],
+          "locationIds": ["location_station", "location_banana_company"]
+        }
+      ],
+      "spotlight": {
+        "title": "阿玛兰妲之死与黄蝴蝶",
+        "summary": "本章最动人的对位在于：阿玛兰妲把死亡安排得从容，梅梅的爱情却被安排得残酷；两者都抵达孤独。"
+      },
+      "questions": [
+        "阿玛兰妲的寿衣为什么既像赎罪，也像权力？",
+        "梅梅的放逐如何把黄蝴蝶从爱情意象转化为创伤意象？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_15",
+    "workId": "work_ohy",
+    "order": 15,
+    "title": "第十五章：三千死者与被抹去的历史",
+    "slug": "chapter-15",
+    "summary": "香蕉工人罢工与大屠杀构成全书最沉重的历史核心，何塞·阿尔卡蒂奥第二成为无人相信的见证者。",
+    "characterIds": ["character_jose_arcadio_segundo", "character_little_aureliano", "character_fernanda"],
+    "eventIds": ["event_banana_strike", "event_massacre_witness", "event_little_aureliano_hidden"],
+    "motifIds": ["motif_banana_company", "motif_memory", "motif_rain", "motif_banana_leaves_stumps"],
+    "themeTags": ["香蕉公司", "大屠杀", "历史抹除", "见证"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十五章深度解读：历史的掩盖与见证的孤独.md", "《百年孤独》章节分析-第十五章-香蕉园大屠杀.md"],
+      "thesis": "第十五章是全书历史创伤的核心：香蕉工人罢工、大屠杀和官方抹除让何塞·阿尔卡蒂奥第二成为无人相信的见证者。",
+      "entryPoint": "从广场和车站的空间变化读起，重点看何塞·阿尔卡蒂奥第二如何在真实与集体遗忘之间被孤立。",
+      "focusPoints": [
+        {
+          "title": "罢工让经济秩序露出暴力底色",
+          "summary": "香蕉工人罢工把前几章的现代化繁荣翻到背面，外来公司不再只是带来商品和速度，也带来可动员的镇压机器。",
+          "eventIds": ["event_banana_strike"],
+          "characterIds": ["character_jose_arcadio_segundo"],
+          "motifIds": ["motif_banana_company", "motif_memory"],
+          "locationIds": ["location_square", "location_station", "location_banana_company"]
+        },
+        {
+          "title": "见证者被孤立在真相内部",
+          "summary": "何塞·阿尔卡蒂奥第二见证大屠杀，却无法让他人承认真相；他的孤独从家族命运扩展为历史见证的孤独。",
+          "eventIds": ["event_massacre_witness"],
+          "characterIds": ["character_jose_arcadio_segundo"],
+          "motifIds": ["motif_memory", "motif_banana_company"],
+          "locationIds": ["location_station", "location_banana_company", "location_cemetery"]
+        },
+        {
+          "title": "隐藏的孩子保存未来读者",
+          "summary": "奥雷里亚诺·巴比伦被隐藏在宅邸，让家族的终局读者在历史抹除之后存活下来；秘密再次成为传承方式。",
+          "eventIds": ["event_little_aureliano_hidden"],
+          "characterIds": ["character_little_aureliano", "character_fernanda"],
+          "motifIds": ["motif_memory", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "香蕉园大屠杀",
+        "summary": "第十五章的重心不是暴力场面本身，而是真相被否认之后，见证者如何被迫承担一整个共同体不愿记住的历史。"
+      },
+      "questions": [
+        "何塞·阿尔卡蒂奥第二为什么会成为大屠杀之后最孤独的人？",
+        "官方抹除历史时，文学叙事如何替被压下去的记忆保留位置？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_16",
+    "workId": "work_ohy",
+    "order": 16,
+    "title": "第十六章：四年十一个月零两天的大雨",
+    "slug": "chapter-16",
+    "summary": "漫长暴雨吞没马孔多的时间、经济和记忆，雨成为殖民创伤与集体遗忘的自然形态。",
+    "characterIds": ["character_ursula", "character_aureliano_segundo", "character_petra_cotes", "character_jose_arcadio_segundo"],
+    "eventIds": ["event_rain_begins", "event_rain_corrosion", "event_rain_stops"],
+    "motifIds": ["motif_rain", "motif_memory", "motif_banana_company", "motif_river_water", "motif_earth_lime", "motif_decay_animals", "motif_banana_leaves_stumps"],
+    "themeTags": ["暴雨", "遗忘", "腐朽", "殖民创伤"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十六章深度解读：时间的囚禁与生命的韧性.md", "《百年孤独》章节分析-第十六章-雨下了四年十一个月零两天.md"],
+      "thesis": "第十六章把大雨写成历史创伤后的自然形态：它冲刷证据，也囚禁时间，使马孔多在腐朽、等待和遗忘中缓慢失去现实感。",
+      "entryPoint": "从大雨开始和停止的时间框架读起，再看奥雷里亚诺第二、佩特拉·科特斯与何塞·阿尔卡蒂奥第二各自如何应对停滞。",
+      "focusPoints": [
+        {
+          "title": "大雨替历史抹除提供自然外衣",
+          "summary": "大雨开始之后，香蕉公司创伤被天气覆盖；雨像延长的沉默，把政治暴力转化为人人都无法反驳的自然灾害。",
+          "eventIds": ["event_rain_begins"],
+          "characterIds": ["character_jose_arcadio_segundo"],
+          "motifIds": ["motif_rain", "motif_banana_company"],
+          "locationIds": ["location_station", "location_banana_company"]
+        },
+        {
+          "title": "腐蚀让时间失去前进方向",
+          "summary": "雨水腐蚀马孔多时，空间、经济和记忆一起发霉；人们等待雨停，实际上是在等待一个已经无法恢复的过去。",
+          "eventIds": ["event_rain_corrosion"],
+          "characterIds": ["character_aureliano_segundo", "character_petra_cotes", "character_ursula"],
+          "motifIds": ["motif_rain", "motif_memory"],
+          "locationIds": ["location_banana_company"]
+        },
+        {
+          "title": "雨停不是重生，而是荒凉显影",
+          "summary": "大雨停止后，马孔多没有获得清洗后的新生，而是露出被掏空的经济和记忆；停止本身成为另一种残酷。",
+          "eventIds": ["event_rain_stops"],
+          "characterIds": ["character_aureliano_segundo", "character_jose_arcadio_segundo"],
+          "motifIds": ["motif_rain", "motif_memory"],
+          "locationIds": ["location_banana_company", "location_station"]
+        }
+      ],
+      "spotlight": {
+        "title": "雨下了四年十一个月零两天",
+        "summary": "这个精确到荒诞的时长，让雨从天气变成命运装置：它既放大孤独，也让历史真相在潮湿中变形。"
+      },
+      "questions": [
+        "大雨为什么既像惩罚，又像替大屠杀抹除痕迹的工具？",
+        "奥雷里亚诺第二和佩特拉·科特斯的坚韧，为什么仍然无法真正拯救马孔多？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_17",
+    "workId": "work_ohy",
+    "order": 17,
+    "title": "第十七章：永恒星期一与家族凋零",
+    "slug": "chapter-17",
+    "summary": "暴雨之后的马孔多进入停滞，乌尔苏拉离世，双胞胎同日死亡，家族守护结构开始彻底坍塌。",
+    "characterIds": ["character_ursula", "character_jose_arcadio_segundo", "character_aureliano_segundo", "character_santa_sofia"],
+    "eventIds": ["event_ursula_death", "event_twins_die", "event_house_declines"],
+    "motifIds": ["motif_time", "motif_memory", "motif_family", "motif_dust_rubble", "motif_yellow_flowers", "motif_house_plants", "motif_decay_animals"],
+    "themeTags": ["死亡", "时间停滞", "家族凋零", "废墟"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十七章深度解读：死亡的尊严与暮年的真爱.md", "《百年孤独》章节分析-第十七章-乌尔苏拉之死.md"],
+      "thesis": "第十七章让守护者退场，家族结构随之松散：乌尔苏拉·伊瓜兰之死、双胞胎同日死亡和宅邸凋零共同标志百年秩序进入废墟阶段。",
+      "entryPoint": "从乌尔苏拉·伊瓜兰的离世读起，再看双胞胎死亡如何把名字、身份和命运的混淆推到终点。",
+      "focusPoints": [
+        {
+          "title": "守护者离世使家族失去重心",
+          "summary": "乌尔苏拉·伊瓜兰离世不是单个人物的终结，而是布恩迪亚宅邸长期维持的伦理、记忆和日常秩序一起退场。",
+          "eventIds": ["event_ursula_death"],
+          "characterIds": ["character_ursula"],
+          "motifIds": ["motif_memory", "motif_family"],
+          "locationIds": ["location_cemetery"]
+        },
+        {
+          "title": "双胞胎死亡完成身份混淆",
+          "summary": "何塞·阿尔卡蒂奥第二与奥雷里亚诺第二同日死亡，使双胞胎的错位命运最终合拢；名字循环不再产生新可能。",
+          "eventIds": ["event_twins_die"],
+          "characterIds": ["character_jose_arcadio_segundo", "character_aureliano_segundo"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_cemetery"]
+        },
+        {
+          "title": "宅邸从家族中心变成废墟容器",
+          "summary": "布恩迪亚宅邸进入衰败后，空间不再组织生活，而是保存残留物；废墟开始接管家族叙事。",
+          "eventIds": ["event_house_declines"],
+          "characterIds": ["character_santa_sofia", "character_fernanda"],
+          "motifIds": ["motif_memory", "motif_family"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "乌尔苏拉之死",
+        "summary": "乌尔苏拉·伊瓜兰之死的震动在于，她带走的不是生命长度，而是家族仍可被整理、照看和记住的可能。"
+      },
+      "questions": [
+        "乌尔苏拉·伊瓜兰死后，布恩迪亚宅邸为什么迅速失去秩序感？",
+        "双胞胎同日死亡如何回应全书关于名字和命运的循环？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_18",
+    "workId": "work_ohy",
+    "order": 18,
+    "title": "第十八章：梵文书店与羊皮卷",
+    "slug": "chapter-18",
+    "summary": "小奥雷里亚诺在书店、欲望和羊皮卷之间寻找出口，梅尔基亚德斯的房间成为最后的知识庇护所。",
+    "characterIds": ["character_little_aureliano", "character_melquiades", "character_fernanda"],
+    "eventIds": ["event_santa_sofia_leaves", "event_fernanda_death", "event_parchments_guarded"],
+    "motifIds": ["motif_parchments", "motif_time", "motif_memory", "motif_dust_rubble", "motif_weeds_primeval_plants", "motif_decay_animals", "motif_light_darkness"],
+    "themeTags": ["羊皮卷", "书店", "破译", "知识"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十八章深度解读：守护者的离去与执念的毁灭.md", "《百年孤独》章节分析-第十八章-桑塔索菲亚·德拉·彼达出走.md"],
+      "thesis": "第十八章把守护者离去后的宅邸写成知识废墟：桑塔索菲亚·德拉·彼达出走，费尔南达死亡，奥雷里亚诺·巴比伦转向羊皮卷和书店寻找最后解释。",
+      "entryPoint": "从桑塔索菲亚·德拉·彼达的离开读起，再看梅尔基亚德斯房间如何成为废墟中最后的知识密室。",
+      "focusPoints": [
+        {
+          "title": "无声守护者终于离开",
+          "summary": "桑塔索菲亚·德拉·彼达离开时，宅邸失去最后一位默默维持日常的人；她的出走比宣告更冷静，也更彻底。",
+          "eventIds": ["event_santa_sofia_leaves"],
+          "characterIds": ["character_santa_sofia"],
+          "motifIds": ["motif_family", "motif_memory"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "费尔南达的死亡清空外来礼法",
+          "summary": "费尔南达死亡后，她长期维系的贵族幻觉和宗教规训失去支点，宅邸暴露出更赤裸的空败。",
+          "eventIds": ["event_fernanda_death"],
+          "characterIds": ["character_fernanda", "character_little_aureliano"],
+          "motifIds": ["motif_family", "motif_memory"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "羊皮卷成为最后的阅读任务",
+          "summary": "羊皮卷被守护与研究，使奥雷里亚诺·巴比伦从隐藏的孩子转为终局读者；知识不再开拓世界，而是解释毁灭。",
+          "eventIds": ["event_parchments_guarded"],
+          "characterIds": ["character_little_aureliano", "character_melquiades"],
+          "motifIds": ["motif_parchments", "motif_time"],
+          "locationIds": ["location_melquiades_room", "location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "桑塔索菲亚·德拉·彼达出走",
+        "summary": "她的离开没有戏剧化宣言，却像抽走一根梁：宅邸仍在，但支撑日常的手已经不再回来。"
+      },
+      "questions": [
+        "桑塔索菲亚·德拉·彼达的离开为什么比许多死亡更能说明家族已无法维系？",
+        "梅尔基亚德斯房间在废墟阶段为什么仍然保留特殊时间感？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_19",
+    "workId": "work_ohy",
+    "order": 19,
+    "title": "第十九章：归来、爱情与终局怀孕",
+    "slug": "chapter-19",
+    "summary": "阿玛兰妲·乌尔苏拉归来，试图复兴马孔多，却与小奥雷里亚诺陷入最后的爱情和血脉循环。",
+    "characterIds": ["character_amaranta_ursula", "character_little_aureliano", "character_fernanda"],
+    "eventIds": ["event_amaranta_ursula_returns", "event_last_love", "event_amaranta_ursula_death"],
+    "motifIds": ["motif_family", "motif_solitude", "motif_time", "motif_house_plants", "motif_weeds_primeval_plants"],
+    "themeTags": ["归来", "爱情", "血脉", "终局"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第十九章深度解读：复兴的短暂与爱情的宿命.md", "《百年孤独》章节分析-第十九章-阿玛兰妲·乌尔苏拉归来.md"],
+      "thesis": "第十九章把复兴愿望写成短暂回光：阿玛兰妲·乌尔苏拉归来试图重启马孔多，却与奥雷里亚诺·巴比伦的爱情一起走向血脉终局。",
+      "entryPoint": "从阿玛兰妲·乌尔苏拉归来的复兴姿态读起，再看最后爱情如何在不知情中重复最古老的禁忌。",
+      "focusPoints": [
+        {
+          "title": "归来带着复兴的幻觉",
+          "summary": "阿玛兰妲·乌尔苏拉归来时，带着外部世界的活力和重整宅邸的热情，但她面对的是已经深度废墟化的马孔多。",
+          "eventIds": ["event_amaranta_ursula_returns"],
+          "characterIds": ["character_amaranta_ursula", "character_little_aureliano", "character_gaston"],
+          "motifIds": ["motif_family", "motif_time"],
+          "locationIds": ["location_station", "location_buendia_house"]
+        },
+        {
+          "title": "最后爱情误把禁忌当作新生",
+          "summary": "奥雷里亚诺·巴比伦与阿玛兰妲·乌尔苏拉相爱，把全书的血脉恐惧推向终点；激情越真，宿命越锋利。",
+          "eventIds": ["event_last_love"],
+          "characterIds": ["character_little_aureliano", "character_amaranta_ursula"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "产后死亡让复兴彻底中断",
+          "summary": "阿玛兰妲·乌尔苏拉产后死亡，使复兴愿望转瞬崩塌，最后的孩子不再象征延续，而象征预言兑现。",
+          "eventIds": ["event_amaranta_ursula_death"],
+          "characterIds": ["character_amaranta_ursula", "character_little_aureliano"],
+          "motifIds": ["motif_family", "motif_solitude"],
+          "locationIds": ["location_buendia_house"]
+        }
+      ],
+      "spotlight": {
+        "title": "阿玛兰妲·乌尔苏拉归来",
+        "summary": "她像带着春天回到废墟的人，但马孔多已经没有足够现实承接这份春天；复兴因此显得美丽而短命。"
+      },
+      "questions": [
+        "阿玛兰妲·乌尔苏拉的复兴计划为什么无法真正改变马孔多？",
+        "最后爱情为什么必须同时被读作幸福和灾难？"
+      ]
+    }
+  },
+  {
+    "id": "chapter_ohy_20",
+    "workId": "work_ohy",
+    "order": 20,
+    "title": "第二十章：羊皮卷、飓风与马孔多消失",
+    "slug": "chapter-20",
+    "summary": "小奥雷里亚诺破译羊皮卷，读懂家族全部命运，马孔多在文本完成的瞬间被抹去。",
+    "characterIds": ["character_little_aureliano", "character_amaranta_ursula", "character_melquiades"],
+    "eventIds": ["event_final_child_birth", "event_parchments_decoded", "event_macondo_erased"],
+    "motifIds": ["motif_parchments", "motif_family", "motif_time", "motif_solitude", "motif_wind_hurricane", "motif_dust_rubble", "motif_pig_tail", "motif_decay_animals", "motif_weeds_primeval_plants", "motif_light_darkness", "motif_river_water"],
+    "themeTags": ["羊皮卷", "终局", "飓风", "文本"],
+    "readingGuide": {
+      "sourceFiles": ["《百年孤独》章节分析-第二十章深度解读：终结的循环与永恒的孤独.md", "《百年孤独》章节分析-第二十章-终章：马孔多被飓风抹去.md"],
+      "thesis": "第二十章把阅读、命运和毁灭压缩到同一瞬间：奥雷里亚诺·巴比伦读懂羊皮卷时，家族历史完成自我解释，马孔多也被文本和飓风一并抹去。",
+      "entryPoint": "从最后的孩子出生读到羊皮卷破译，注意读者、文本和世界毁灭如何同步发生。",
+      "focusPoints": [
+        {
+          "title": "最后的孩子让古老恐惧具象化",
+          "summary": "最后的孩子出生后，家族最早的血脉恐惧获得身体形态；新生不再开启未来，而是打开终局机关。",
+          "eventIds": ["event_final_child_birth", "event_final_child_devoured"],
+          "characterIds": ["character_final_aureliano", "character_little_aureliano", "character_amaranta_ursula"],
+          "motifIds": ["motif_family", "motif_ants"],
+          "locationIds": ["location_buendia_house"]
+        },
+        {
+          "title": "破译羊皮卷等于读完自身",
+          "summary": "奥雷里亚诺·巴比伦破译羊皮卷时，发现自己不是命运之外的读者，而是文本内部最后一个被写下的人。",
+          "eventIds": ["event_parchments_decoded"],
+          "characterIds": ["character_little_aureliano", "character_melquiades"],
+          "motifIds": ["motif_parchments", "motif_time"],
+          "locationIds": ["location_melquiades_room", "location_buendia_house"]
+        },
+        {
+          "title": "飓风让文本完成世界的句号",
+          "summary": "马孔多被抹去并不是附加灾难，而是羊皮卷被读完的结果；当历史获得完整解释，世界也失去继续存在的余地。",
+          "eventIds": ["event_macondo_erased"],
+          "characterIds": ["character_little_aureliano"],
+          "motifIds": ["motif_parchments", "motif_solitude", "motif_time"],
+          "locationIds": ["location_buendia_house", "location_melquiades_room"]
+        }
+      ],
+      "spotlight": {
+        "title": "终章：马孔多被飓风抹去",
+        "summary": "终章的震撼在于毁灭不是突发结局，而是百年文字终于读到最后一行；阅读本身成为飓风的引信。"
+      },
+      "questions": [
+        "奥雷里亚诺·巴比伦破译羊皮卷时，为什么也失去了逃离命运的可能？",
+        "马孔多的消失为什么必须发生在文本被读懂的同一刻？"
+      ]
+    }
+  }
+]
