@@ -18,7 +18,10 @@ pnpm-debug.log*
 .env.*
 !.env.example
 
-材料/
+材料/*
+!材料/章节解读/
+材料/章节解读/*
+!材料/章节解读/*.md
 AGENTS.md
 马孔多宇宙.txt
 马孔多宇宙Web系统产品计划书.md
